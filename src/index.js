@@ -13,6 +13,8 @@ app.use(express.json());
 
 
 //Routes
+app.use(require('./routes/index'));
+
 app.use('/api/peluquerias', require('./routes/peluquerias'));
 app.use('/api/usuarios', require('./routes/usuarios'));
 app.use('/api/turnos', require('./routes/turnos'));
