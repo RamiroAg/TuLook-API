@@ -1,0 +1,1494 @@
+[
+    {
+        "id": 1,
+        "nombre": "Fix San",
+        "direccion": "3369 Arkansas Point",
+        "coordenadas": "33 Lien Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:18",
+        "horarioCierre": "20:12"
+    },
+    {
+        "id": 2,
+        "nombre": "Zamit",
+        "direccion": "6311 Division Place",
+        "coordenadas": "2 Clyde Gallagher Terrace",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "8:33",
+        "horarioCierre": "21:34"
+    },
+    {
+        "id": 3,
+        "nombre": "Zaam-Dox",
+        "direccion": "7484 Continental Court",
+        "coordenadas": "44565 Norway Maple Terrace",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:36",
+        "horarioCierre": "19:54"
+    },
+    {
+        "id": 4,
+        "nombre": "Andalax",
+        "direccion": "03 Shopko Street",
+        "coordenadas": "7044 Judy Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:47",
+        "horarioCierre": "19:27"
+    },
+    {
+        "id": 5,
+        "nombre": "Holdlamis",
+        "direccion": "757 School Center",
+        "coordenadas": "75011 Corben Avenue",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:56",
+        "horarioCierre": "18:01"
+    },
+    {
+        "id": 6,
+        "nombre": "Sub-Ex",
+        "direccion": "78 Lake View Center",
+        "coordenadas": "475 Cambridge Alley",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:28",
+        "horarioCierre": "18:06"
+    },
+    {
+        "id": 7,
+        "nombre": "Alpha",
+        "direccion": "64 Eastwood Trail",
+        "coordenadas": "291 Sunnyside Lane",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:16",
+        "horarioCierre": "18:24"
+    },
+    {
+        "id": 8,
+        "nombre": "Fix San",
+        "direccion": "105 Almo Terrace",
+        "coordenadas": "29 Rusk Hill",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:05",
+        "horarioCierre": "21:46"
+    },
+    {
+        "id": 9,
+        "nombre": "Ventosanzap",
+        "direccion": "89982 Arkansas Place",
+        "coordenadas": "77941 Mayfield Road",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:16",
+        "horarioCierre": "21:48"
+    },
+    {
+        "id": 10,
+        "nombre": "Konklab",
+        "direccion": "13815 Independence Place",
+        "coordenadas": "75 Lillian Pass",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:00",
+        "horarioCierre": "18:46"
+    },
+    {
+        "id": 11,
+        "nombre": "Alphazap",
+        "direccion": "8 Pepper Wood Trail",
+        "coordenadas": "1065 Dapin Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:09",
+        "horarioCierre": "20:10"
+    },
+    {
+        "id": 12,
+        "nombre": "Y-Solowarm",
+        "direccion": "15209 Portage Street",
+        "coordenadas": "64 Mockingbird Drive",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:31",
+        "horarioCierre": "18:11"
+    },
+    {
+        "id": 13,
+        "nombre": "Opela",
+        "direccion": "7 Waywood Crossing",
+        "coordenadas": "4 Judy Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:53",
+        "horarioCierre": "21:39"
+    },
+    {
+        "id": 14,
+        "nombre": "Andalax",
+        "direccion": "110 Scott Parkway",
+        "coordenadas": "24186 Burrows Center",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:57",
+        "horarioCierre": "20:17"
+    },
+    {
+        "id": 15,
+        "nombre": "Wrapsafe",
+        "direccion": "2 Grim Alley",
+        "coordenadas": "21 Ridgeview Crossing",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:54",
+        "horarioCierre": "20:13"
+    },
+    {
+        "id": 16,
+        "nombre": "Bitwolf",
+        "direccion": "56 Red Cloud Crossing",
+        "coordenadas": "36 Trailsway Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:46",
+        "horarioCierre": "19:52"
+    },
+    {
+        "id": 17,
+        "nombre": "Home Ing",
+        "direccion": "4261 Fremont Terrace",
+        "coordenadas": "41 Tennessee Circle",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:29",
+        "horarioCierre": "21:55"
+    },
+    {
+        "id": 18,
+        "nombre": "It",
+        "direccion": "48 Dawn Hill",
+        "coordenadas": "63639 Lillian Pass",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:59",
+        "horarioCierre": "18:33"
+    },
+    {
+        "id": 19,
+        "nombre": "Trippledex",
+        "direccion": "2 Lake View Crossing",
+        "coordenadas": "90 Prairieview Junction",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:07",
+        "horarioCierre": "20:28"
+    },
+    {
+        "id": 20,
+        "nombre": "Overhold",
+        "direccion": "7877 Crest Line Parkway",
+        "coordenadas": "60 Longview Trail",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:44",
+        "horarioCierre": "21:05"
+    },
+    {
+        "id": 21,
+        "nombre": "Tresom",
+        "direccion": "16769 Larry Terrace",
+        "coordenadas": "0 Blue Bill Park Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:47",
+        "horarioCierre": "21:24"
+    },
+    {
+        "id": 22,
+        "nombre": "Toughjoyfax",
+        "direccion": "092 Schlimgen Way",
+        "coordenadas": "3 American Road",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:09",
+        "horarioCierre": "21:57"
+    },
+    {
+        "id": 23,
+        "nombre": "Zoolab",
+        "direccion": "13933 Boyd Place",
+        "coordenadas": "62468 Rieder Point",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:38",
+        "horarioCierre": "21:38"
+    },
+    {
+        "id": 24,
+        "nombre": "Holdlamis",
+        "direccion": "7986 Nelson Park",
+        "coordenadas": "06 Brown Alley",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:33",
+        "horarioCierre": "20:45"
+    },
+    {
+        "id": 25,
+        "nombre": "Tres-Zap",
+        "direccion": "0923 Shelley Park",
+        "coordenadas": "1648 Doe Crossing Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:27",
+        "horarioCierre": "21:17"
+    },
+    {
+        "id": 26,
+        "nombre": "Andalax",
+        "direccion": "841 Briar Crest Point",
+        "coordenadas": "1 Riverside Terrace",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:05",
+        "horarioCierre": "18:10"
+    },
+    {
+        "id": 27,
+        "nombre": "Asoka",
+        "direccion": "4830 Debra Circle",
+        "coordenadas": "81 Old Gate Way",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:49",
+        "horarioCierre": "21:19"
+    },
+    {
+        "id": 28,
+        "nombre": "Sonsing",
+        "direccion": "93906 Miller Drive",
+        "coordenadas": "86293 Fuller Parkway",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:06",
+        "horarioCierre": "20:48"
+    },
+    {
+        "id": 29,
+        "nombre": "Aerified",
+        "direccion": "174 Maywood Alley",
+        "coordenadas": "28 Lillian Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:59",
+        "horarioCierre": "21:00"
+    },
+    {
+        "id": 30,
+        "nombre": "Bytecard",
+        "direccion": "6 Veith Park",
+        "coordenadas": "10 Acker Park",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:55",
+        "horarioCierre": "20:53"
+    },
+    {
+        "id": 31,
+        "nombre": "Overhold",
+        "direccion": "4 Schmedeman Trail",
+        "coordenadas": "448 East Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:27",
+        "horarioCierre": "18:05"
+    },
+    {
+        "id": 32,
+        "nombre": "Mat Lam Tam",
+        "direccion": "15 Esch Point",
+        "coordenadas": "6 Buena Vista Junction",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:57",
+        "horarioCierre": "18:38"
+    },
+    {
+        "id": 33,
+        "nombre": "Konklab",
+        "direccion": "62417 Rutledge Crossing",
+        "coordenadas": "0892 Marcy Hill",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:43",
+        "horarioCierre": "19:40"
+    },
+    {
+        "id": 34,
+        "nombre": "Flexidy",
+        "direccion": "2 Delladonna Junction",
+        "coordenadas": "28135 Cottonwood Court",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:34",
+        "horarioCierre": "21:55"
+    },
+    {
+        "id": 35,
+        "nombre": "Regrant",
+        "direccion": "136 Luster Center",
+        "coordenadas": "6 Logan Hill",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:47",
+        "horarioCierre": "18:31"
+    },
+    {
+        "id": 36,
+        "nombre": "Biodex",
+        "direccion": "72116 Fulton Drive",
+        "coordenadas": "4 Magdeline Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:44",
+        "horarioCierre": "21:06"
+    },
+    {
+        "id": 37,
+        "nombre": "Stringtough",
+        "direccion": "089 Huxley Plaza",
+        "coordenadas": "44506 Barby Point",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:50",
+        "horarioCierre": "21:39"
+    },
+    {
+        "id": 38,
+        "nombre": "Fixflex",
+        "direccion": "1 Fairview Avenue",
+        "coordenadas": "8 Stang Park",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:52",
+        "horarioCierre": "20:10"
+    },
+    {
+        "id": 39,
+        "nombre": "Matsoft",
+        "direccion": "67 Helena Park",
+        "coordenadas": "89142 Aberg Point",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:22",
+        "horarioCierre": "19:53"
+    },
+    {
+        "id": 40,
+        "nombre": "Alpha",
+        "direccion": "124 Stang Park",
+        "coordenadas": "16743 La Follette Plaza",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:23",
+        "horarioCierre": "18:04"
+    },
+    {
+        "id": 41,
+        "nombre": "Subin",
+        "direccion": "61649 Northview Terrace",
+        "coordenadas": "34 Jay Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:43",
+        "horarioCierre": "18:55"
+    },
+    {
+        "id": 42,
+        "nombre": "Kanlam",
+        "direccion": "0407 Aberg Street",
+        "coordenadas": "5656 Cottonwood Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:37",
+        "horarioCierre": "19:23"
+    },
+    {
+        "id": 43,
+        "nombre": "Bamity",
+        "direccion": "89 Kingsford Plaza",
+        "coordenadas": "13178 Blackbird Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:15",
+        "horarioCierre": "21:44"
+    },
+    {
+        "id": 44,
+        "nombre": "Zaam-Dox",
+        "direccion": "1719 West Point",
+        "coordenadas": "1 Maple Wood Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:09",
+        "horarioCierre": "21:24"
+    },
+    {
+        "id": 45,
+        "nombre": "Asoka",
+        "direccion": "986 Ridge Oak Trail",
+        "coordenadas": "51 Bayside Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:37",
+        "horarioCierre": "21:37"
+    },
+    {
+        "id": 46,
+        "nombre": "Aerified",
+        "direccion": "5124 Pennsylvania Hill",
+        "coordenadas": "4 Pine View Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:17",
+        "horarioCierre": "20:24"
+    },
+    {
+        "id": 47,
+        "nombre": "Viva",
+        "direccion": "02129 Susan Hill",
+        "coordenadas": "62318 Algoma Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:01",
+        "horarioCierre": "18:42"
+    },
+    {
+        "id": 48,
+        "nombre": "Treeflex",
+        "direccion": "464 Eastlawn Avenue",
+        "coordenadas": "7299 Eagan Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:24",
+        "horarioCierre": "18:10"
+    },
+    {
+        "id": 49,
+        "nombre": "Zamit",
+        "direccion": "47609 Kensington Junction",
+        "coordenadas": "1 Merchant Drive",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:29",
+        "horarioCierre": "20:12"
+    },
+    {
+        "id": 50,
+        "nombre": "Job",
+        "direccion": "38623 Paget Alley",
+        "coordenadas": "30783 Fordem Junction",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:17",
+        "horarioCierre": "21:27"
+    },
+    {
+        "id": 51,
+        "nombre": "Duobam",
+        "direccion": "57410 Talmadge Trail",
+        "coordenadas": "93 Chive Pass",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:13",
+        "horarioCierre": "21:10"
+    },
+    {
+        "id": 52,
+        "nombre": "Lotlux",
+        "direccion": "26 Carioca Terrace",
+        "coordenadas": "677 Eliot Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:41",
+        "horarioCierre": "19:26"
+    },
+    {
+        "id": 53,
+        "nombre": "Subin",
+        "direccion": "58377 Bunting Way",
+        "coordenadas": "11288 Manufacturers Junction",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:33",
+        "horarioCierre": "19:34"
+    },
+    {
+        "id": 54,
+        "nombre": "Bamity",
+        "direccion": "87 Bultman Crossing",
+        "coordenadas": "1740 Truax Drive",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:25",
+        "horarioCierre": "20:25"
+    },
+    {
+        "id": 55,
+        "nombre": "Asoka",
+        "direccion": "68618 Moulton Street",
+        "coordenadas": "230 Fallview Road",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:37",
+        "horarioCierre": "21:22"
+    },
+    {
+        "id": 56,
+        "nombre": "Zaam-Dox",
+        "direccion": "5 Artisan Crossing",
+        "coordenadas": "482 Doe Crossing Alley",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:24",
+        "horarioCierre": "21:03"
+    },
+    {
+        "id": 57,
+        "nombre": "Tin",
+        "direccion": "86725 Riverside Trail",
+        "coordenadas": "96651 Westridge Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:52",
+        "horarioCierre": "20:53"
+    },
+    {
+        "id": 58,
+        "nombre": "Stronghold",
+        "direccion": "6 Forest Point",
+        "coordenadas": "342 Superior Crossing",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:00",
+        "horarioCierre": "19:01"
+    },
+    {
+        "id": 59,
+        "nombre": "It",
+        "direccion": "2157 Londonderry Trail",
+        "coordenadas": "2043 Buhler Avenue",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:46",
+        "horarioCierre": "18:38"
+    },
+    {
+        "id": 60,
+        "nombre": "Domainer",
+        "direccion": "7 Eagan Avenue",
+        "coordenadas": "2 Ridge Oak Court",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:19",
+        "horarioCierre": "21:25"
+    },
+    {
+        "id": 61,
+        "nombre": "Tresom",
+        "direccion": "6668 Warrior Center",
+        "coordenadas": "40 Dixon Terrace",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:22",
+        "horarioCierre": "19:51"
+    },
+    {
+        "id": 62,
+        "nombre": "Namfix",
+        "direccion": "719 Warner Hill",
+        "coordenadas": "5 Annamark Pass",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:50",
+        "horarioCierre": "19:00"
+    },
+    {
+        "id": 63,
+        "nombre": "Hatity",
+        "direccion": "01 Colorado Avenue",
+        "coordenadas": "0417 Boyd Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:16",
+        "horarioCierre": "19:14"
+    },
+    {
+        "id": 64,
+        "nombre": "Home Ing",
+        "direccion": "5883 Stuart Center",
+        "coordenadas": "7 Goodland Way",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:43",
+        "horarioCierre": "19:41"
+    },
+    {
+        "id": 65,
+        "nombre": "Stronghold",
+        "direccion": "825 Eagle Crest Place",
+        "coordenadas": "5 Homewood Junction",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:32",
+        "horarioCierre": "20:25"
+    },
+    {
+        "id": 66,
+        "nombre": "Temp",
+        "direccion": "4 Cardinal Circle",
+        "coordenadas": "6308 Waywood Center",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:29",
+        "horarioCierre": "18:22"
+    },
+    {
+        "id": 67,
+        "nombre": "Latlux",
+        "direccion": "96877 Derek Junction",
+        "coordenadas": "11577 Novick Junction",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:23",
+        "horarioCierre": "18:36"
+    },
+    {
+        "id": 68,
+        "nombre": "Zamit",
+        "direccion": "910 Havey Circle",
+        "coordenadas": "0 Paget Court",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:15",
+        "horarioCierre": "21:21"
+    },
+    {
+        "id": 69,
+        "nombre": "Cardify",
+        "direccion": "332 Thierer Hill",
+        "coordenadas": "5 Anhalt Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:28",
+        "horarioCierre": "19:31"
+    },
+    {
+        "id": 70,
+        "nombre": "Kanlam",
+        "direccion": "357 Transport Lane",
+        "coordenadas": "8 Kings Alley",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:54",
+        "horarioCierre": "20:22"
+    },
+    {
+        "id": 71,
+        "nombre": "Wrapsafe",
+        "direccion": "21773 Pine View Way",
+        "coordenadas": "4240 Killdeer Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:44",
+        "horarioCierre": "18:32"
+    },
+    {
+        "id": 72,
+        "nombre": "Zaam-Dox",
+        "direccion": "2 Kropf Junction",
+        "coordenadas": "624 Ryan Plaza",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:21",
+        "horarioCierre": "20:37"
+    },
+    {
+        "id": 73,
+        "nombre": "Zathin",
+        "direccion": "9182 Fairfield Court",
+        "coordenadas": "73512 Talisman Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:56",
+        "horarioCierre": "18:57"
+    },
+    {
+        "id": 74,
+        "nombre": "Ventosanzap",
+        "direccion": "8354 Transport Way",
+        "coordenadas": "71 Tennyson Street",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:50",
+        "horarioCierre": "21:05"
+    },
+    {
+        "id": 75,
+        "nombre": "Sub-Ex",
+        "direccion": "13 Prairie Rose Avenue",
+        "coordenadas": "33042 Memorial Crossing",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:31",
+        "horarioCierre": "19:29"
+    },
+    {
+        "id": 76,
+        "nombre": "Zontrax",
+        "direccion": "20 Pankratz Road",
+        "coordenadas": "77598 Hollow Ridge Park",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:16",
+        "horarioCierre": "21:28"
+    },
+    {
+        "id": 77,
+        "nombre": "Tempsoft",
+        "direccion": "6030 Eastwood Point",
+        "coordenadas": "952 Lakeland Street",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:34",
+        "horarioCierre": "19:53"
+    },
+    {
+        "id": 78,
+        "nombre": "Treeflex",
+        "direccion": "663 Bluestem Court",
+        "coordenadas": "655 Badeau Point",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:47",
+        "horarioCierre": "18:27"
+    },
+    {
+        "id": 79,
+        "nombre": "Redhold",
+        "direccion": "420 Mandrake Pass",
+        "coordenadas": "64 Monica Terrace",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:20",
+        "horarioCierre": "21:59"
+    },
+    {
+        "id": 80,
+        "nombre": "Fix San",
+        "direccion": "7 Hoard Lane",
+        "coordenadas": "3493 Jay Hill",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:33",
+        "horarioCierre": "20:41"
+    },
+    {
+        "id": 81,
+        "nombre": "Overhold",
+        "direccion": "0 Old Gate Trail",
+        "coordenadas": "87608 Butternut Park",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:56",
+        "horarioCierre": "18:56"
+    },
+    {
+        "id": 82,
+        "nombre": "Fixflex",
+        "direccion": "87589 Gulseth Way",
+        "coordenadas": "69684 Stone Corner Center",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:59",
+        "horarioCierre": "19:32"
+    },
+    {
+        "id": 83,
+        "nombre": "Voltsillam",
+        "direccion": "5900 Mockingbird Junction",
+        "coordenadas": "1 Becker Drive",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:30",
+        "horarioCierre": "19:53"
+    },
+    {
+        "id": 84,
+        "nombre": "Y-Solowarm",
+        "direccion": "29 Bultman Lane",
+        "coordenadas": "48301 Carpenter Park",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:15",
+        "horarioCierre": "21:06"
+    },
+    {
+        "id": 85,
+        "nombre": "Latlux",
+        "direccion": "9125 Warbler Junction",
+        "coordenadas": "877 Kingsford Road",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:00",
+        "horarioCierre": "21:35"
+    },
+    {
+        "id": 86,
+        "nombre": "Fixflex",
+        "direccion": "1 Paget Point",
+        "coordenadas": "884 Rigney Circle",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "8:02",
+        "horarioCierre": "19:05"
+    },
+    {
+        "id": 87,
+        "nombre": "Namfix",
+        "direccion": "16 Elmside Plaza",
+        "coordenadas": "3577 Utah Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:28",
+        "horarioCierre": "20:38"
+    },
+    {
+        "id": 88,
+        "nombre": "Alpha",
+        "direccion": "6825 Heath Junction",
+        "coordenadas": "87 Claremont Point",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "9:51",
+        "horarioCierre": "20:11"
+    },
+    {
+        "id": 89,
+        "nombre": "Domainer",
+        "direccion": "0620 Banding Terrace",
+        "coordenadas": "851 Corben Court",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:37",
+        "horarioCierre": "18:11"
+    },
+    {
+        "id": 90,
+        "nombre": "Ronstring",
+        "direccion": "9 Westport Avenue",
+        "coordenadas": "7 Mockingbird Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:59",
+        "horarioCierre": "19:09"
+    },
+    {
+        "id": 91,
+        "nombre": "Subin",
+        "direccion": "78 Talmadge Park",
+        "coordenadas": "97 Dapin Plaza",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:59",
+        "horarioCierre": "21:49"
+    },
+    {
+        "id": 92,
+        "nombre": "Zontrax",
+        "direccion": "4 Hoffman Place",
+        "coordenadas": "629 Rigney Park",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:13",
+        "horarioCierre": "20:25"
+    },
+    {
+        "id": 93,
+        "nombre": "Ronstring",
+        "direccion": "5529 8th Hill",
+        "coordenadas": "773 Moulton Hill",
+        "servicios": [
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "8:25",
+        "horarioCierre": "20:07"
+    },
+    {
+        "id": 94,
+        "nombre": "Gembucket",
+        "direccion": "22415 Iowa Parkway",
+        "coordenadas": "43 Sachs Crossing",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "8:00",
+        "horarioCierre": "18:29"
+    },
+    {
+        "id": 95,
+        "nombre": "Cardify",
+        "direccion": "118 Holy Cross Way",
+        "coordenadas": "884 Jenna Parkway",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:52",
+        "horarioCierre": "18:47"
+    },
+    {
+        "id": 96,
+        "nombre": "Lotlux",
+        "direccion": "9 Ridgeview Point",
+        "coordenadas": "815 Cody Circle",
+        "servicios": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:21",
+        "horarioCierre": "19:43"
+    },
+    {
+        "id": 97,
+        "nombre": "Matsoft",
+        "direccion": "7 Bay Lane",
+        "coordenadas": "757 Sundown Hill",
+        "servicios": [
+            {},
+            {}
+        ],
+        "horarioApertura": "10:01",
+        "horarioCierre": "21:04"
+    },
+    {
+        "id": 98,
+        "nombre": "Daltfresh",
+        "direccion": "3 Sachtjen Pass",
+        "coordenadas": "01269 Truax Place",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:21",
+        "horarioCierre": "18:44"
+    },
+    {
+        "id": 99,
+        "nombre": "Fix San",
+        "direccion": "6927 Raven Terrace",
+        "coordenadas": "3452 Rockefeller Trail",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "10:00",
+        "horarioCierre": "20:51"
+    },
+    {
+        "id": 100,
+        "nombre": "Redhold",
+        "direccion": "9170 Knutson Plaza",
+        "coordenadas": "51 Monica Hill",
+        "servicios": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+        ],
+        "horarioApertura": "9:51",
+        "horarioCierre": "21:53"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "nombre": "Edouard",
+        "apellido": "Willoway",
+        "direccion": "4 Badeau Hill",
+        "peluqueriasFavoritas": 7
+    },
+    {
+        "id": 2,
+        "nombre": "Thia",
+        "apellido": "Sotheby",
+        "direccion": "190 Riverside Drive",
+        "peluqueriasFavoritas": 10
+    },
+    {
+        "id": 3,
+        "nombre": "Yalonda",
+        "apellido": "Berge",
+        "direccion": "1453 Schiller Street",
+        "peluqueriasFavoritas": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Elysha",
+        "apellido": "Vella",
+        "direccion": "3 Loftsgordon Terrace",
+        "peluqueriasFavoritas": 12
+    },
+    {
+        "id": 5,
+        "nombre": "Kaja",
+        "apellido": "Byers",
+        "direccion": "3 Nancy Trail",
+        "peluqueriasFavoritas": 6
+    },
+    {
+        "id": 6,
+        "nombre": "Romain",
+        "apellido": "Pryor",
+        "direccion": "23 Fordem Center",
+        "peluqueriasFavoritas": 2
+    },
+    {
+        "id": 7,
+        "nombre": "Alysia",
+        "apellido": "McCurt",
+        "direccion": "8 Thackeray Center",
+        "peluqueriasFavoritas": 5
+    },
+    {
+        "id": 8,
+        "nombre": "Jean",
+        "apellido": "Elmore",
+        "direccion": "584 Clemons Hill",
+        "peluqueriasFavoritas": 10
+    },
+    {
+        "id": 9,
+        "nombre": "Roland",
+        "apellido": "Bunyan",
+        "direccion": "73 3rd Court",
+        "peluqueriasFavoritas": 14
+    },
+    {
+        "id": 10,
+        "nombre": "Dane",
+        "apellido": "Hatz",
+        "direccion": "746 1st Circle",
+        "peluqueriasFavoritas": 11
+    },
+    {
+        "id": 11,
+        "nombre": "Albina",
+        "apellido": "Paunsford",
+        "direccion": "0155 Gale Road",
+        "peluqueriasFavoritas": 8
+    },
+    {
+        "id": 12,
+        "nombre": "Dodie",
+        "apellido": "Greaser",
+        "direccion": "6370 Eastlawn Terrace",
+        "peluqueriasFavoritas": 13
+    },
+    {
+        "id": 13,
+        "nombre": "Alfi",
+        "apellido": "Happer",
+        "direccion": "13706 Mendota Road",
+        "peluqueriasFavoritas": 18
+    },
+    {
+        "id": 14,
+        "nombre": "Myrwyn",
+        "apellido": "Ivain",
+        "direccion": "5 Havey Hill",
+        "peluqueriasFavoritas": 12
+    },
+    {
+        "id": 15,
+        "nombre": "Trev",
+        "apellido": "Glazier",
+        "direccion": "57 Moulton Court",
+        "peluqueriasFavoritas": 19
+    },
+    {
+        "id": 16,
+        "nombre": "Gracia",
+        "apellido": "Chorlton",
+        "direccion": "8189 6th Crossing",
+        "peluqueriasFavoritas": 18
+    },
+    {
+        "id": 17,
+        "nombre": "Emalee",
+        "apellido": "O'Neil",
+        "direccion": "019 Ridgeway Way",
+        "peluqueriasFavoritas": 10
+    },
+    {
+        "id": 18,
+        "nombre": "Rhianon",
+        "apellido": "Hessentaler",
+        "direccion": "19 Meadow Valley Park",
+        "peluqueriasFavoritas": 8
+    },
+    {
+        "id": 19,
+        "nombre": "Boonie",
+        "apellido": "Howsden",
+        "direccion": "96231 Derek Hill",
+        "peluqueriasFavoritas": 6
+    },
+    {
+        "id": 20,
+        "nombre": "Arleta",
+        "apellido": "Radage",
+        "direccion": "63 Mariners Cove Point",
+        "peluqueriasFavoritas": 19
+    }
+]
