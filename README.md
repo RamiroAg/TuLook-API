@@ -5,7 +5,14 @@ _API que implementa ABM, soportando GET, POST, PUT, DELETE, sobre las siguientes
  - _turno_
  - _review_
  
- 
+ ## Nuevos Endpoints
+  - _peluquerias/{id} - GET_
+  - _usuarios/{id} - GET_
+  - _reviews/{id} - GET_
+  - _reviews/byPeluqueria/{peluqueriaId} - GET_
+  - _turnos/{id} - GET_
+  - _turnos/byPeluqueria/{peluqueriaId} - GET_
+  - _turnos/byUsuario/{peluqueriaId} - GET_
 ## Ejecutar la solución 🚀
 Iniciar una consola dentro de la carpeta de la solción y ejecutar:
 ```
