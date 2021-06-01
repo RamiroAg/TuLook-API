@@ -10,6 +10,17 @@ router.get('/', (req, res) => {
     res.send(usuarios);
 });
 
+router.get('/:id', (req, res) => {
+    const { id } = req.params;
+    _.each(usuarios, (usuario, i) => {
+        if (usuario.id == id) {
+            res.send(usuario);
+        }
+    });
+    res.status(404)
+        .json({ "error": "Entidad no encontrada" });
+});
+
 router.post('/', (req, res) => {
     const { nombre, apellido, direccion, peluqueriasFavoritas } = req.body;
 
@@ -20,7 +31,8 @@ router.post('/', (req, res) => {
         usuarios.push(newUsuario);
         saveUsuarios(usuarios);
 
-        res.json(usuarios);
+        res.status(200)
+            .send(newUsuario);
     }
     else {
         res.status(500)
@@ -39,11 +51,11 @@ router.put('/:id', (req, res) => {
                 usuario.apellido = apellido;
                 usuario.direccion = direccion;
                 usuario.peluqueriasFavoritas = peluqueriasFavoritas;
-                
+
                 saveUsuarios(usuarios);
             }
         });
-        res.json(usuarios);
+        res.status(200).json(usuarios);
     }
     else {
         res.status(500)
@@ -56,7 +68,7 @@ router.delete('/:id', (req, res) => {
     _.each(usuarios, (usuario, i) => {
         if (usuario.id == id) {
             usuarios.splice(i, 1);
-            
+
             saveUsuarios(usuarios);
         }
     });

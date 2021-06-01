@@ -11,6 +11,17 @@ router.get('/', (req, res) => {
     res.send(peluquerias);
 });
 
+router.get('/:id', (req, res) => {
+    const { id } = req.params;
+    _.each(peluquerias, (peluqueria, i) => {
+        if (peluqueria.id == id) {
+            res.send(peluqueria);
+        }
+    });
+    res.status(404)
+        .json({ "error": "Entidad no encontrada" });
+});
+
 router.post('/', (req, res) => {
     const { nombre, direccion, coordenadas, servicios,
         horarioApertura, horarioCierre } = req.body;
@@ -23,7 +34,8 @@ router.post('/', (req, res) => {
         peluquerias.push(newPeluqueria);
         savePeluquerias(peluquerias);
 
-        res.json(peluquerias);
+        res.status(200)
+            .send(newPeluqueria);
     }
     else {
         res.status(500)
@@ -51,7 +63,8 @@ router.put('/:id', (req, res) => {
             }
         });
 
-        res.json(peluquerias);
+        res.status(200)
+            .json(peluquerias);
     }
     else {
         res.status(500)

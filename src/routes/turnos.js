@@ -10,6 +10,26 @@ router.get('/', (req, res) => {
     res.send(turnos)
 });
 
+router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
+    const { peluqueriaId } = req.params;
+
+    res.send(turnos.filter(
+        function (t) {
+            return t.peluqueriaId == peluqueriaId;
+        }
+    ));
+});
+
+router.get('/byUsuario/:usuarioId', (req, res) => {
+    const { usuarioId } = req.params;
+
+    res.send(turnos.filter(
+        function (t) {
+            return t.usuarioId == usuarioId;
+        }
+    ));
+});
+
 router.post('/', (req, res) => {
     const { peluqueriaId, usuarioId, estado, horario, duracion } = req.body;
 
@@ -20,7 +40,8 @@ router.post('/', (req, res) => {
         turnos.push(newTurno);
         saveTurnos(turnos);
 
-        res.json(turnos);
+        res.status(200)
+            .send(newTurno);
     }
     else {
         res.status(500)
@@ -42,8 +63,8 @@ router.put('/:id', (req, res) => {
                 turno.duracion = duracion;
             }
         });
-        saveTurnos(turnos); 
-        res.json(turnos);
+        saveTurnos(turnos);
+        res.status(200).json(turnos);
     }
     else {
         res.status(500)
@@ -59,7 +80,7 @@ router.delete('/:id', (req, res) => {
         }
     });
 
-    saveTurnos(turnos); 
+    saveTurnos(turnos);
     res.json(turnos);
 });
 
