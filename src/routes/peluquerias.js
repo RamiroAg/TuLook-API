@@ -4,10 +4,20 @@ const _ = require('underscore');
 const fs = require('fs');
 
 const peluquerias = require('../data/peluquerias.json');
+
+const DireccionService = require('../services/DireccionService');
+const DireccionServiceInstance = new DireccionService();
 // console.log(peluquerias);
 
 router.get('/', (req, res) => {
     const peluquerias = getPeluquerias();
+
+    _.each(peluquerias, (peluqueria, i) => {
+        if (peluqueria.direccionId) {
+            peluqueria.direccion = DireccionServiceInstance.getById(peluqueria.direccionId);
+        }
+    });
+
     res.json(peluquerias);
 });
 
@@ -26,8 +36,8 @@ router.post('/', (req, res) => {
     const { nombre, direccionId, servicios,
         horarioApertura, horarioCierre, rating } = req.body;
 
-        if (nombre && direccionId && servicios
-            && horarioApertura && horarioCierre && rating) {
+    if (nombre && direccionId && servicios
+        && horarioApertura && horarioCierre && rating) {
         const id = peluquerias.length + 1;
         const newPeluqueria = { ...req.body, id };
 
