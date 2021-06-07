@@ -1,5 +1,5 @@
 const express = require('express');
-const app = express();
+const app = require("https-localhost")()
 const morgan = require('morgan');
 
 //Settings

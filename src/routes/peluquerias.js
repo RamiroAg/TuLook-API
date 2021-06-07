@@ -8,7 +8,7 @@ const peluquerias = require('../data/peluquerias.json');
 
 router.get('/', (req, res) => {
     const peluquerias = getPeluquerias();
-    res.send(peluquerias);
+    res.json(peluquerias);
 });
 
 router.get('/:id', (req, res) => {
@@ -23,11 +23,11 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const { nombre, direccion, coordenadas, servicios,
-        horarioApertura, horarioCierre } = req.body;
+    const { nombre, direccionId, servicios,
+        horarioApertura, horarioCierre, rating } = req.body;
 
-    if (nombre && direccion && coordenadas && servicios
-        && horarioApertura && horarioCierre) {
+        if (nombre && direccionId && servicios
+            && horarioApertura && horarioCierre && rating) {
         const id = peluquerias.length + 1;
         const newPeluqueria = { ...req.body, id };
 
@@ -45,19 +45,19 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
     const { id } = req.params;
-    const { nombre, direccion, coordenadas, servicios,
-        horarioApertura, horarioCierre } = req.body;
+    const { nombre, direccionId, servicios,
+        horarioApertura, horarioCierre, rating } = req.body;
 
-    if (nombre && direccion && coordenadas && servicios
-        && horarioApertura && horarioCierre) {
+    if (nombre && direccionId && servicios
+        && horarioApertura && horarioCierre && rating) {
         _.each(peluquerias, (peluqueria, i) => {
             if (peluqueria.id == id) {
                 peluqueria.nombre = nombre;
-                peluqueria.direccion = direccion;
-                peluqueria.coordenadas = coordenadas;
+                peluqueria.direccionId = direccionId;
                 peluqueria.servicios = servicios;
                 peluqueria.horarioApertura = horarioApertura;
                 peluqueria.horarioCierre = horarioCierre;
+                peluqueria.rating = rating;
 
                 savePeluquerias(peluquerias);
             }
