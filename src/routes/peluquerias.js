@@ -25,6 +25,9 @@ router.get('/:id', (req, res) => {
     const { id } = req.params;
     _.each(peluquerias, (peluqueria, i) => {
         if (peluqueria.id == id) {
+            if (peluqueria.direccionId) {
+                peluqueria.direccion = DireccionServiceInstance.getById(peluqueria.direccionId);
+            }
             res.send(peluqueria);
         }
     });
