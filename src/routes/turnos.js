@@ -10,12 +10,24 @@ router.get('/', (req, res) => {
     res.send(turnos)
 });
 
+
 router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
     const { peluqueriaId } = req.params;
 
     res.send(turnos.filter(
         function (t) {
             return t.peluqueriaId == peluqueriaId;
+        }
+    ));
+});
+
+router.get('/byPeluqueria/:peluqueriaId/:fecha', (req, res) => {
+    const { peluqueriaId, fecha } = req.params;
+
+    res.send(turnos.filter(
+        function (t) {
+            return t.peluqueriaId == peluqueriaId
+                && t.fecha == fecha;
         }
     ));
 });
