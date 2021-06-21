@@ -1,902 +1,2156 @@
 [
     {
         "id": 1,
-        "nombre": "Biodex",
+        "nombre": "Pannier",
         "direccionId": 1,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.48
+        "rating": 4.23,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 2,
-        "nombre": "Voyatouch",
+        "nombre": "Pannier",
         "direccionId": 2,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.97
+        "rating": 2.91,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 3,
-        "nombre": "Span",
+        "nombre": "Rank",
         "direccionId": 3,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.38
+        "rating": 2.56,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 4,
-        "nombre": "Sub-Ex",
+        "nombre": "Stringtough",
         "direccionId": 4,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.0
+        "rating": 3.39,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 5,
-        "nombre": "Fix San",
+        "nombre": "It",
         "direccionId": 5,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.38
+        "rating": 2.76,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 6,
-        "nombre": "Wrapsafe",
+        "nombre": "Opela",
         "direccionId": 6,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.03
+        "rating": 3.83,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 7,
-        "nombre": "Vagram",
+        "nombre": "Bytecard",
         "direccionId": 7,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.37
+        "rating": 1.37,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 8,
-        "nombre": "Rank",
+        "nombre": "Y-Solowarm",
         "direccionId": 8,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.6
+        "rating": 2.38,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 9,
-        "nombre": "Subin",
+        "nombre": "Sub-Ex",
         "direccionId": 9,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.48
+        "rating": 2.08,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 10,
-        "nombre": "Sonair",
+        "nombre": "Holdlamis",
         "direccionId": 10,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.54
+        "rating": 1.89,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 11,
-        "nombre": "Ventosanzap",
+        "nombre": "Alpha",
         "direccionId": 11,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.75
+        "rating": 4.02,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 12,
-        "nombre": "Y-find",
+        "nombre": "Transcof",
         "direccionId": 12,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.81
+        "rating": 4.83,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 13,
-        "nombre": "Tin",
+        "nombre": "Andalax",
         "direccionId": 13,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.31
+        "rating": 2.15,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 14,
-        "nombre": "Holdlamis",
+        "nombre": "Ventosanzap",
         "direccionId": 14,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.23
+        "rating": 1.72,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 15,
-        "nombre": "Tin",
+        "nombre": "Voyatouch",
         "direccionId": 15,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.02
+        "rating": 2.28,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 16,
-        "nombre": "Zamit",
+        "nombre": "Tres-Zap",
         "direccionId": 16,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.95
+        "rating": 1.29,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 17,
-        "nombre": "Subin",
+        "nombre": "Flexidy",
         "direccionId": 17,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.24
+        "rating": 4.6,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 18,
-        "nombre": "Cardguard",
+        "nombre": "Vagram",
         "direccionId": 18,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.75
+        "rating": 4.53,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 19,
-        "nombre": "Bitwolf",
+        "nombre": "Gembucket",
         "direccionId": 19,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.21
+        "rating": 4.99,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 20,
-        "nombre": "Subin",
+        "nombre": "Vagram",
         "direccionId": 20,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.41
+        "rating": 2.9,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 21,
-        "nombre": "Regrant",
+        "nombre": "Zamit",
         "direccionId": 21,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.04
+        "rating": 1.18,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 22,
-        "nombre": "Asoka",
+        "nombre": "Zontrax",
         "direccionId": 22,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.11
+        "rating": 2.82,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 23,
-        "nombre": "Stringtough",
+        "nombre": "Matsoft",
         "direccionId": 23,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.25
+        "rating": 4.49,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 24,
-        "nombre": "Stringtough",
+        "nombre": "Lotlux",
         "direccionId": 24,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.36
+        "rating": 3.3,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 25,
-        "nombre": "Treeflex",
+        "nombre": "Zamit",
         "direccionId": 25,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.85
+        "rating": 3.27,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 26,
-        "nombre": "Latlux",
+        "nombre": "Zathin",
         "direccionId": 26,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.61
+        "rating": 2.99,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 27,
-        "nombre": "Duobam",
+        "nombre": "Bamity",
         "direccionId": 27,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.44
+        "rating": 2.19,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 28,
-        "nombre": "Stringtough",
+        "nombre": "Daltfresh",
         "direccionId": 28,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.63
+        "rating": 3.13,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 29,
-        "nombre": "Tresom",
+        "nombre": "Wrapsafe",
         "direccionId": 29,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.28
+        "rating": 3.99,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 30,
-        "nombre": "Zathin",
+        "nombre": "Home Ing",
         "direccionId": 30,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.5
+        "rating": 3.63,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 31,
-        "nombre": "Vagram",
+        "nombre": "Bitchip",
         "direccionId": 31,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.05
+        "rating": 2.22,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 32,
-        "nombre": "Biodex",
+        "nombre": "Tin",
         "direccionId": 32,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.35
+        "rating": 4.73,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 33,
-        "nombre": "Subin",
+        "nombre": "Prodder",
         "direccionId": 33,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.05
+        "rating": 1.46,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 34,
-        "nombre": "Subin",
+        "nombre": "Cookley",
         "direccionId": 34,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.22
+        "rating": 1.43,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 35,
-        "nombre": "Biodex",
+        "nombre": "Andalax",
         "direccionId": 35,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.89
+        "rating": 1.87,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 36,
-        "nombre": "Hatity",
+        "nombre": "Stringtough",
         "direccionId": 36,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.35
+        "rating": 2.7,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 37,
-        "nombre": "Lotstring",
+        "nombre": "Tampflex",
         "direccionId": 37,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.61
+        "rating": 3.34,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 38,
-        "nombre": "Cardguard",
+        "nombre": "Lotlux",
         "direccionId": 38,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.19
+        "rating": 4.64,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 39,
-        "nombre": "Solarbreeze",
+        "nombre": "Otcom",
         "direccionId": 39,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.14
+        "rating": 1.02,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 40,
-        "nombre": "Bytecard",
+        "nombre": "Holdlamis",
         "direccionId": 40,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.59
+        "rating": 4.86,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 41,
-        "nombre": "Konklab",
+        "nombre": "Stringtough",
         "direccionId": 41,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.09
+        "rating": 3.19,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 42,
-        "nombre": "Subin",
+        "nombre": "Lotlux",
         "direccionId": 42,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.47
+        "rating": 2.69,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 43,
-        "nombre": "Asoka",
+        "nombre": "Latlux",
         "direccionId": 43,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.8
+        "rating": 4.55,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 44,
-        "nombre": "Trippledex",
+        "nombre": "Holdlamis",
         "direccionId": 44,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.64
+        "rating": 1.8,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 45,
-        "nombre": "Bamity",
+        "nombre": "Stringtough",
         "direccionId": 45,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.2
+        "rating": 1.43,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 46,
-        "nombre": "Konklux",
+        "nombre": "Namfix",
         "direccionId": 46,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.11
+        "rating": 3.02,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 47,
-        "nombre": "Quo Lux",
+        "nombre": "Trippledex",
         "direccionId": 47,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.23
+        "rating": 2.24,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 48,
-        "nombre": "Cardify",
+        "nombre": "Trippledex",
         "direccionId": 48,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.4
+        "rating": 4.69,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 49,
-        "nombre": "Alpha",
+        "nombre": "Toughjoyfax",
         "direccionId": 49,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.2
+        "rating": 4.18,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 50,
-        "nombre": "Y-find",
+        "nombre": "Keylex",
         "direccionId": 50,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.69
+        "rating": 3.44,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 51,
-        "nombre": "Tresom",
+        "nombre": "Toughjoyfax",
         "direccionId": 51,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.1
+        "rating": 1.48,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 52,
-        "nombre": "Ventosanzap",
+        "nombre": "Quo Lux",
         "direccionId": 52,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.05
+        "rating": 2.81,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 53,
-        "nombre": "Lotstring",
+        "nombre": "Voltsillam",
         "direccionId": 53,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.63
+        "rating": 3.14,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 54,
-        "nombre": "Tin",
+        "nombre": "Voltsillam",
         "direccionId": 54,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.71
+        "rating": 3.64,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 55,
-        "nombre": "Greenlam",
+        "nombre": "Cardify",
         "direccionId": 55,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.55
+        "rating": 1.2,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 56,
-        "nombre": "Job",
+        "nombre": "Vagram",
         "direccionId": 56,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.23
+        "rating": 4.23,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 57,
-        "nombre": "Sonsing",
+        "nombre": "Mat Lam Tam",
         "direccionId": 57,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.28
+        "rating": 3.2,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 58,
-        "nombre": "Matsoft",
+        "nombre": "Rank",
         "direccionId": 58,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.68
+        "rating": 2.55,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 59,
-        "nombre": "Fintone",
+        "nombre": "Keylex",
         "direccionId": 59,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.88
+        "rating": 4.47,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 60,
-        "nombre": "Greenlam",
+        "nombre": "Span",
         "direccionId": 60,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.27
+        "rating": 3.41,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 61,
-        "nombre": "Otcom",
+        "nombre": "Daltfresh",
         "direccionId": 61,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.28
+        "rating": 4.08,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 62,
-        "nombre": "Zaam-Dox",
+        "nombre": "Redhold",
         "direccionId": 62,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.52
+        "rating": 4.36,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 63,
-        "nombre": "Zathin",
+        "nombre": "Trippledex",
         "direccionId": 63,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.51
+        "rating": 1.18,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 64,
-        "nombre": "Hatity",
+        "nombre": "Otcom",
         "direccionId": 64,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.66
+        "rating": 1.8,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 65,
-        "nombre": "Y-Solowarm",
+        "nombre": "Fixflex",
         "direccionId": 65,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.37
+        "rating": 2.24,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 66,
-        "nombre": "Viva",
+        "nombre": "Span",
         "direccionId": 66,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.17
+        "rating": 1.96,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 67,
-        "nombre": "Subin",
+        "nombre": "Flexidy",
         "direccionId": 67,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.34
+        "rating": 1.29,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 68,
-        "nombre": "Latlux",
+        "nombre": "Zaam-Dox",
         "direccionId": 68,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.96
+        "rating": 4.16,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 69,
-        "nombre": "Aerified",
+        "nombre": "Tresom",
         "direccionId": 69,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.85
+        "rating": 3.4,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 70,
-        "nombre": "Tin",
+        "nombre": "Latlux",
         "direccionId": 70,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.31
+        "rating": 2.81,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 71,
-        "nombre": "Ventosanzap",
+        "nombre": "Trippledex",
         "direccionId": 71,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.48
+        "rating": 3.95,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 72,
-        "nombre": "Stringtough",
+        "nombre": "Fixflex",
         "direccionId": 72,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.56
+        "rating": 4.54,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 73,
-        "nombre": "Fintone",
+        "nombre": "Bytecard",
         "direccionId": 73,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.95
+        "rating": 3.39,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 74,
-        "nombre": "Biodex",
+        "nombre": "Sub-Ex",
         "direccionId": 74,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.66
+        "rating": 3.2,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 75,
-        "nombre": "Andalax",
+        "nombre": "Ventosanzap",
         "direccionId": 75,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.31
+        "rating": 3.11,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 76,
-        "nombre": "Fix San",
+        "nombre": "Cardify",
         "direccionId": 76,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.44
+        "rating": 1.94,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 77,
-        "nombre": "Andalax",
+        "nombre": "Redhold",
         "direccionId": 77,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.17
+        "rating": 3.29,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 78,
-        "nombre": "Tampflex",
+        "nombre": "Job",
         "direccionId": 78,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.89
+        "rating": 1.05,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 79,
-        "nombre": "Cookley",
+        "nombre": "Vagram",
         "direccionId": 79,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.46
+        "rating": 4.84,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 80,
-        "nombre": "Quo Lux",
+        "nombre": "Y-Solowarm",
         "direccionId": 80,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.91
+        "rating": 2.19,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 81,
-        "nombre": "Alphazap",
+        "nombre": "Keylex",
         "direccionId": 81,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.3
+        "rating": 4.44,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 82,
-        "nombre": "Namfix",
+        "nombre": "Tempsoft",
         "direccionId": 82,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.13
+        "rating": 3.42,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 83,
-        "nombre": "Cardguard",
+        "nombre": "Gembucket",
         "direccionId": 83,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.38
+        "rating": 3.86,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 84,
-        "nombre": "Zamit",
+        "nombre": "Rank",
         "direccionId": 84,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.28
+        "rating": 4.62,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 85,
-        "nombre": "Flowdesk",
+        "nombre": "Solarbreeze",
         "direccionId": 85,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.13
+        "rating": 1.4,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 86,
-        "nombre": "Veribet",
+        "nombre": "Fix San",
         "direccionId": 86,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.59
+        "rating": 3.58,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 87,
         "nombre": "Redhold",
         "direccionId": 87,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.65
+        "rating": 4.08,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 88,
-        "nombre": "Y-find",
+        "nombre": "Otcom",
         "direccionId": 88,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 5.0
+        "rating": 2.31,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 89,
-        "nombre": "Konklux",
+        "nombre": "Sonsing",
         "direccionId": 89,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.86
+        "rating": 3.27,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 90,
-        "nombre": "Transcof",
+        "nombre": "Ronstring",
         "direccionId": 90,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.97
+        "rating": 2.79,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 91,
-        "nombre": "Zathin",
+        "nombre": "Tresom",
         "direccionId": 91,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.69
+        "rating": 2.01,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 92,
-        "nombre": "Bigtax",
+        "nombre": "Domainer",
         "direccionId": 92,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.78
+        "rating": 2.7,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 93,
-        "nombre": "Tres-Zap",
+        "nombre": "Temp",
         "direccionId": 93,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.12
+        "rating": 2.77,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 94,
-        "nombre": "Job",
+        "nombre": "Daltfresh",
         "direccionId": 94,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.35
+        "rating": 3.37,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 95,
-        "nombre": "Voyatouch",
+        "nombre": "Sonair",
         "direccionId": 95,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 2.96
+        "rating": 1.73,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 96,
-        "nombre": "Otcom",
+        "nombre": "Span",
         "direccionId": 96,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.46
+        "rating": 1.51,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 97,
-        "nombre": "Tres-Zap",
+        "nombre": "Konklab",
         "direccionId": 97,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.29
+        "rating": 3.83,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 98,
-        "nombre": "Mat Lam Tam",
+        "nombre": "Voyatouch",
         "direccionId": 98,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 4.99
+        "rating": 2.31,
+        "imagenes": [
+            "https://cadenaser00.epimg.net/ser/imagenes/2021/01/18/radio_santander/1610974857_943697_1610975325_noticia_normal_recorte1.jpg",
+            "https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/05/reabren-las-peluquerias.jpeg"
+        ]
     },
     {
         "id": 99,
-        "nombre": "Solarbreeze",
+        "nombre": "Trippledex",
         "direccionId": 99,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 1.69
+        "rating": 3.07,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     },
     {
         "id": 100,
-        "nombre": "Fintone",
+        "nombre": "Pannier",
         "direccionId": 100,
-        "servicios": ["corte", "color", "peinado", "barba", "depilación", "manicura", "pedicura"],
+        "servicios": [
+            "corte",
+            "color",
+            "peinado",
+            "barba",
+            "depilación",
+            "manicura",
+            "pedicura"
+        ],
         "horarioApertura": "2021-01-01T10:00:00",
         "horarioCierre": "2021-01-01T20:00:00",
-        "rating": 3.13
+        "rating": 4.27,
+        "imagenes": [
+            "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2020/04/30/15882463886180.jpg",
+            "https://cnnespanol.cnn.com/wp-content/uploads/2020/05/peluqueria-e1589898661773.jpeg?quality=100&strip=info&w=806&h=530&crop=1",
+            "https://static.comunicae.com/photos/notas/1223638/1617662293_IMG1360_1030x687.jpg"
+        ]
     }
 ]
