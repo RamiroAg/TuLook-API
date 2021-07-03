@@ -12,7 +12,7 @@ class ReviewService {
     getByTurnoId(turnoId) {
         return this.reviews.filter(function (r) {
             return (r.turnoId == turnoId);
-        });
+        })[0];
     }
 
     getByPeluqueria(peluqueriaId) {
