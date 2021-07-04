@@ -1,0 +1,1802 @@
+[
+    {
+        "id": 1,
+        "peluqueriaId": 58,
+        "usuarioId": 8,
+        "estado": 2,
+        "fecha": "2021-07-21",
+        "horario": "18:44",
+        "duracion": 120
+    },
+    {
+        "id": 2,
+        "peluqueriaId": 94,
+        "usuarioId": 5,
+        "estado": 1,
+        "fecha": "2021-07-13",
+        "horario": "18:25",
+        "duracion": 60
+    },
+    {
+        "id": 3,
+        "peluqueriaId": 56,
+        "usuarioId": 1,
+        "estado": 1,
+        "fecha": "2021-07-26",
+        "horario": "17:48",
+        "duracion": 120
+    },
+    {
+        "id": 4,
+        "peluqueriaId": 62,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-07-22",
+        "horario": "15:52",
+        "duracion": 120
+    },
+    {
+        "id": 5,
+        "peluqueriaId": 20,
+        "usuarioId": 6,
+        "estado": 2,
+        "fecha": "2021-07-16",
+        "horario": "19:27",
+        "duracion": 120
+    },
+    {
+        "id": 6,
+        "peluqueriaId": 58,
+        "usuarioId": 11,
+        "estado": 2,
+        "fecha": "2021-07-09",
+        "horario": "11:58",
+        "duracion": 90
+    },
+    {
+        "id": 7,
+        "peluqueriaId": 80,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-25",
+        "horario": "11:04",
+        "duracion": 30
+    },
+    {
+        "id": 8,
+        "peluqueriaId": 93,
+        "usuarioId": 20,
+        "estado": 3,
+        "fecha": "2021-07-09",
+        "horario": "11:02",
+        "duracion": 120
+    },
+    {
+        "id": 9,
+        "peluqueriaId": 24,
+        "usuarioId": 19,
+        "estado": 2,
+        "fecha": "2021-06-21",
+        "horario": "18:31",
+        "duracion": 30
+    },
+    {
+        "id": 10,
+        "peluqueriaId": 20,
+        "usuarioId": 17,
+        "estado": 2,
+        "fecha": "2021-07-01",
+        "horario": "19:49",
+        "duracion": 120
+    },
+    {
+        "id": 11,
+        "peluqueriaId": 3,
+        "usuarioId": 3,
+        "estado": 1,
+        "fecha": "2021-07-20",
+        "horario": "14:28",
+        "duracion": 30
+    },
+    {
+        "id": 12,
+        "peluqueriaId": 20,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-07-14",
+        "horario": "11:11",
+        "duracion": 120
+    },
+    {
+        "id": 13,
+        "peluqueriaId": 82,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-07-05",
+        "horario": "18:52",
+        "duracion": 120
+    },
+    {
+        "id": 14,
+        "peluqueriaId": 79,
+        "usuarioId": 12,
+        "estado": 2,
+        "fecha": "2021-07-13",
+        "horario": "10:18",
+        "duracion": 60
+    },
+    {
+        "id": 15,
+        "peluqueriaId": 88,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-15",
+        "horario": "13:17",
+        "duracion": 90
+    },
+    {
+        "id": 16,
+        "peluqueriaId": 77,
+        "usuarioId": 2,
+        "estado": 3,
+        "fecha": "2021-07-20",
+        "horario": "17:35",
+        "duracion": 60
+    },
+    {
+        "id": 17,
+        "peluqueriaId": 29,
+        "usuarioId": 1,
+        "estado": 3,
+        "fecha": "2021-06-30",
+        "horario": "14:19",
+        "duracion": 90
+    },
+    {
+        "id": 18,
+        "peluqueriaId": 2,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-07-21",
+        "horario": "16:38",
+        "duracion": 90
+    },
+    {
+        "id": 19,
+        "peluqueriaId": 56,
+        "usuarioId": 8,
+        "estado": 2,
+        "fecha": "2021-06-25",
+        "horario": "16:41",
+        "duracion": 90
+    },
+    {
+        "id": 20,
+        "peluqueriaId": 27,
+        "usuarioId": 14,
+        "estado": 3,
+        "fecha": "2021-07-26",
+        "horario": "13:05",
+        "duracion": 120
+    },
+    {
+        "id": 21,
+        "peluqueriaId": 5,
+        "usuarioId": 8,
+        "estado": 1,
+        "fecha": "2021-07-03",
+        "horario": "16:19",
+        "duracion": 120
+    },
+    {
+        "id": 22,
+        "peluqueriaId": 29,
+        "usuarioId": 7,
+        "estado": 1,
+        "fecha": "2021-07-07",
+        "horario": "10:15",
+        "duracion": 90
+    },
+    {
+        "id": 23,
+        "peluqueriaId": 44,
+        "usuarioId": 15,
+        "estado": 2,
+        "fecha": "2021-07-31",
+        "horario": "10:56",
+        "duracion": 30
+    },
+    {
+        "id": 24,
+        "peluqueriaId": 35,
+        "usuarioId": 9,
+        "estado": 1,
+        "fecha": "2021-07-06",
+        "horario": "10:32",
+        "duracion": 120
+    },
+    {
+        "id": 25,
+        "peluqueriaId": 63,
+        "usuarioId": 20,
+        "estado": 3,
+        "fecha": "2021-07-07",
+        "horario": "12:08",
+        "duracion": 90
+    },
+    {
+        "id": 26,
+        "peluqueriaId": 16,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-07-10",
+        "horario": "18:23",
+        "duracion": 60
+    },
+    {
+        "id": 27,
+        "peluqueriaId": 59,
+        "usuarioId": 8,
+        "estado": 3,
+        "fecha": "2021-07-08",
+        "horario": "11:55",
+        "duracion": 30
+    },
+    {
+        "id": 28,
+        "peluqueriaId": 7,
+        "usuarioId": 4,
+        "estado": 3,
+        "fecha": "2021-07-25",
+        "horario": "12:09",
+        "duracion": 60
+    },
+    {
+        "id": 29,
+        "peluqueriaId": 54,
+        "usuarioId": 12,
+        "estado": 2,
+        "fecha": "2021-07-09",
+        "horario": "11:30",
+        "duracion": 120
+    },
+    {
+        "id": 30,
+        "peluqueriaId": 22,
+        "usuarioId": 16,
+        "estado": 1,
+        "fecha": "2021-07-14",
+        "horario": "11:45",
+        "duracion": 90
+    },
+    {
+        "id": 31,
+        "peluqueriaId": 82,
+        "usuarioId": 14,
+        "estado": 2,
+        "fecha": "2021-07-22",
+        "horario": "18:35",
+        "duracion": 90
+    },
+    {
+        "id": 32,
+        "peluqueriaId": 65,
+        "usuarioId": 9,
+        "estado": 2,
+        "fecha": "2021-06-22",
+        "horario": "11:24",
+        "duracion": 60
+    },
+    {
+        "id": 33,
+        "peluqueriaId": 81,
+        "usuarioId": 5,
+        "estado": 1,
+        "fecha": "2021-07-29",
+        "horario": "16:51",
+        "duracion": 90
+    },
+    {
+        "id": 34,
+        "peluqueriaId": 37,
+        "usuarioId": 13,
+        "estado": 1,
+        "fecha": "2021-06-15",
+        "horario": "14:08",
+        "duracion": 90
+    },
+    {
+        "id": 35,
+        "peluqueriaId": 27,
+        "usuarioId": 14,
+        "estado": 3,
+        "fecha": "2021-06-18",
+        "horario": "19:13",
+        "duracion": 30
+    },
+    {
+        "id": 36,
+        "peluqueriaId": 65,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-07-16",
+        "horario": "16:40",
+        "duracion": 60
+    },
+    {
+        "id": 37,
+        "peluqueriaId": 19,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-06-24",
+        "horario": "10:23",
+        "duracion": 120
+    },
+    {
+        "id": 38,
+        "peluqueriaId": 95,
+        "usuarioId": 19,
+        "estado": 2,
+        "fecha": "2021-07-06",
+        "horario": "14:36",
+        "duracion": 120
+    },
+    {
+        "id": 39,
+        "peluqueriaId": 65,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-07-30",
+        "horario": "16:42",
+        "duracion": 90
+    },
+    {
+        "id": 40,
+        "peluqueriaId": 53,
+        "usuarioId": 18,
+        "estado": 2,
+        "fecha": "2021-07-30",
+        "horario": "14:25",
+        "duracion": 60
+    },
+    {
+        "id": 41,
+        "peluqueriaId": 8,
+        "usuarioId": 19,
+        "estado": 2,
+        "fecha": "2021-07-08",
+        "horario": "10:10",
+        "duracion": 120
+    },
+    {
+        "id": 42,
+        "peluqueriaId": 5,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-07-13",
+        "horario": "16:08",
+        "duracion": 90
+    },
+    {
+        "id": 43,
+        "peluqueriaId": 22,
+        "usuarioId": 19,
+        "estado": 1,
+        "fecha": "2021-07-02",
+        "horario": "11:26",
+        "duracion": 90
+    },
+    {
+        "id": 44,
+        "peluqueriaId": 77,
+        "usuarioId": 8,
+        "estado": 3,
+        "fecha": "2021-07-29",
+        "horario": "9:43",
+        "duracion": 60
+    },
+    {
+        "id": 45,
+        "peluqueriaId": 44,
+        "usuarioId": 18,
+        "estado": 1,
+        "fecha": "2021-07-29",
+        "horario": "10:33",
+        "duracion": 60
+    },
+    {
+        "id": 46,
+        "peluqueriaId": 10,
+        "usuarioId": 17,
+        "estado": 1,
+        "fecha": "2021-07-22",
+        "horario": "15:41",
+        "duracion": 30
+    },
+    {
+        "id": 47,
+        "peluqueriaId": 2,
+        "usuarioId": 18,
+        "estado": 2,
+        "fecha": "2021-06-22",
+        "horario": "16:53",
+        "duracion": 60
+    },
+    {
+        "id": 48,
+        "peluqueriaId": 10,
+        "usuarioId": 18,
+        "estado": 1,
+        "fecha": "2021-07-12",
+        "horario": "13:22",
+        "duracion": 120
+    },
+    {
+        "id": 49,
+        "peluqueriaId": 10,
+        "usuarioId": 6,
+        "estado": 2,
+        "fecha": "2021-07-09",
+        "horario": "12:17",
+        "duracion": 120
+    },
+    {
+        "id": 50,
+        "peluqueriaId": 92,
+        "usuarioId": 6,
+        "estado": 3,
+        "fecha": "2021-07-11",
+        "horario": "15:08",
+        "duracion": 120
+    },
+    {
+        "id": 51,
+        "peluqueriaId": 63,
+        "usuarioId": 13,
+        "estado": 1,
+        "fecha": "2021-07-28",
+        "horario": "9:05",
+        "duracion": 120
+    },
+    {
+        "id": 52,
+        "peluqueriaId": 89,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-06-30",
+        "horario": "19:36",
+        "duracion": 30
+    },
+    {
+        "id": 53,
+        "peluqueriaId": 78,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-22",
+        "horario": "10:02",
+        "duracion": 90
+    },
+    {
+        "id": 54,
+        "peluqueriaId": 59,
+        "usuarioId": 16,
+        "estado": 2,
+        "fecha": "2021-06-28",
+        "horario": "16:38",
+        "duracion": 30
+    },
+    {
+        "id": 55,
+        "peluqueriaId": 57,
+        "usuarioId": 9,
+        "estado": 2,
+        "fecha": "2021-06-16",
+        "horario": "15:28",
+        "duracion": 120
+    },
+    {
+        "id": 56,
+        "peluqueriaId": 79,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-20",
+        "horario": "19:43",
+        "duracion": 30
+    },
+    {
+        "id": 57,
+        "peluqueriaId": 2,
+        "usuarioId": 18,
+        "estado": 3,
+        "fecha": "2021-06-18",
+        "horario": "11:48",
+        "duracion": 120
+    },
+    {
+        "id": 58,
+        "peluqueriaId": 81,
+        "usuarioId": 15,
+        "estado": 3,
+        "fecha": "2021-06-16",
+        "horario": "18:27",
+        "duracion": 30
+    },
+    {
+        "id": 59,
+        "peluqueriaId": 11,
+        "usuarioId": 1,
+        "estado": 1,
+        "fecha": "2021-07-31",
+        "horario": "18:31",
+        "duracion": 120
+    },
+    {
+        "id": 60,
+        "peluqueriaId": 95,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-07-13",
+        "horario": "15:35",
+        "duracion": 60
+    },
+    {
+        "id": 61,
+        "peluqueriaId": 93,
+        "usuarioId": 2,
+        "estado": 1,
+        "fecha": "2021-07-01",
+        "horario": "12:42",
+        "duracion": 60
+    },
+    {
+        "id": 62,
+        "peluqueriaId": 94,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-06-17",
+        "horario": "9:33",
+        "duracion": 30
+    },
+    {
+        "id": 63,
+        "peluqueriaId": 61,
+        "usuarioId": 16,
+        "estado": 1,
+        "fecha": "2021-07-10",
+        "horario": "9:18",
+        "duracion": 90
+    },
+    {
+        "id": 64,
+        "peluqueriaId": 18,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-06-18",
+        "horario": "16:23",
+        "duracion": 30
+    },
+    {
+        "id": 65,
+        "peluqueriaId": 52,
+        "usuarioId": 14,
+        "estado": 2,
+        "fecha": "2021-06-22",
+        "horario": "17:22",
+        "duracion": 120
+    },
+    {
+        "id": 66,
+        "peluqueriaId": 41,
+        "usuarioId": 12,
+        "estado": 1,
+        "fecha": "2021-07-20",
+        "horario": "16:08",
+        "duracion": 90
+    },
+    {
+        "id": 67,
+        "peluqueriaId": 98,
+        "usuarioId": 14,
+        "estado": 1,
+        "fecha": "2021-07-10",
+        "horario": "15:18",
+        "duracion": 120
+    },
+    {
+        "id": 68,
+        "peluqueriaId": 24,
+        "usuarioId": 14,
+        "estado": 3,
+        "fecha": "2021-07-28",
+        "horario": "14:03",
+        "duracion": 30
+    },
+    {
+        "id": 69,
+        "peluqueriaId": 19,
+        "usuarioId": 9,
+        "estado": 3,
+        "fecha": "2021-07-13",
+        "horario": "14:11",
+        "duracion": 120
+    },
+    {
+        "id": 70,
+        "peluqueriaId": 87,
+        "usuarioId": 10,
+        "estado": 3,
+        "fecha": "2021-07-28",
+        "horario": "18:38",
+        "duracion": 90
+    },
+    {
+        "id": 71,
+        "peluqueriaId": 31,
+        "usuarioId": 18,
+        "estado": 2,
+        "fecha": "2021-07-31",
+        "horario": "14:27",
+        "duracion": 30
+    },
+    {
+        "id": 72,
+        "peluqueriaId": 63,
+        "usuarioId": 5,
+        "estado": 2,
+        "fecha": "2021-07-21",
+        "horario": "16:31",
+        "duracion": 30
+    },
+    {
+        "id": 73,
+        "peluqueriaId": 85,
+        "usuarioId": 9,
+        "estado": 1,
+        "fecha": "2021-07-16",
+        "horario": "19:43",
+        "duracion": 120
+    },
+    {
+        "id": 74,
+        "peluqueriaId": 6,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-17",
+        "horario": "18:56",
+        "duracion": 120
+    },
+    {
+        "id": 75,
+        "peluqueriaId": 35,
+        "usuarioId": 12,
+        "estado": 1,
+        "fecha": "2021-07-15",
+        "horario": "15:53",
+        "duracion": 30
+    },
+    {
+        "id": 76,
+        "peluqueriaId": 30,
+        "usuarioId": 13,
+        "estado": 1,
+        "fecha": "2021-06-14",
+        "horario": "17:47",
+        "duracion": 30
+    },
+    {
+        "id": 77,
+        "peluqueriaId": 5,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-07-24",
+        "horario": "15:43",
+        "duracion": 60
+    },
+    {
+        "id": 78,
+        "peluqueriaId": 83,
+        "usuarioId": 11,
+        "estado": 3,
+        "fecha": "2021-07-30",
+        "horario": "13:07",
+        "duracion": 60
+    },
+    {
+        "id": 79,
+        "peluqueriaId": 33,
+        "usuarioId": 20,
+        "estado": 3,
+        "fecha": "2021-06-14",
+        "horario": "16:34",
+        "duracion": 90
+    },
+    {
+        "id": 80,
+        "peluqueriaId": 37,
+        "usuarioId": 16,
+        "estado": 2,
+        "fecha": "2021-06-25",
+        "horario": "19:17",
+        "duracion": 30
+    },
+    {
+        "id": 81,
+        "peluqueriaId": 47,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-14",
+        "horario": "9:03",
+        "duracion": 120
+    },
+    {
+        "id": 82,
+        "peluqueriaId": 22,
+        "usuarioId": 9,
+        "estado": 2,
+        "fecha": "2021-07-01",
+        "horario": "11:01",
+        "duracion": 120
+    },
+    {
+        "id": 83,
+        "peluqueriaId": 39,
+        "usuarioId": 9,
+        "estado": 1,
+        "fecha": "2021-06-20",
+        "horario": "11:43",
+        "duracion": 30
+    },
+    {
+        "id": 84,
+        "peluqueriaId": 30,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-06-24",
+        "horario": "18:01",
+        "duracion": 90
+    },
+    {
+        "id": 85,
+        "peluqueriaId": 66,
+        "usuarioId": 4,
+        "estado": 2,
+        "fecha": "2021-06-29",
+        "horario": "12:14",
+        "duracion": 90
+    },
+    {
+        "id": 86,
+        "peluqueriaId": 49,
+        "usuarioId": 3,
+        "estado": 1,
+        "fecha": "2021-06-21",
+        "horario": "18:02",
+        "duracion": 30
+    },
+    {
+        "id": 87,
+        "peluqueriaId": 75,
+        "usuarioId": 11,
+        "estado": 3,
+        "fecha": "2021-06-21",
+        "horario": "18:36",
+        "duracion": 60
+    },
+    {
+        "id": 88,
+        "peluqueriaId": 12,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-07-14",
+        "horario": "10:27",
+        "duracion": 120
+    },
+    {
+        "id": 89,
+        "peluqueriaId": 46,
+        "usuarioId": 17,
+        "estado": 2,
+        "fecha": "2021-07-05",
+        "horario": "9:35",
+        "duracion": 30
+    },
+    {
+        "id": 90,
+        "peluqueriaId": 82,
+        "usuarioId": 20,
+        "estado": 1,
+        "fecha": "2021-07-07",
+        "horario": "19:25",
+        "duracion": 60
+    },
+    {
+        "id": 91,
+        "peluqueriaId": 4,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-06-22",
+        "horario": "16:53",
+        "duracion": 60
+    },
+    {
+        "id": 92,
+        "peluqueriaId": 85,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-07-14",
+        "horario": "16:38",
+        "duracion": 60
+    },
+    {
+        "id": 93,
+        "peluqueriaId": 47,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-06-18",
+        "horario": "13:18",
+        "duracion": 120
+    },
+    {
+        "id": 94,
+        "peluqueriaId": 40,
+        "usuarioId": 17,
+        "estado": 1,
+        "fecha": "2021-07-14",
+        "horario": "12:51",
+        "duracion": 30
+    },
+    {
+        "id": 95,
+        "peluqueriaId": 8,
+        "usuarioId": 14,
+        "estado": 2,
+        "fecha": "2021-06-26",
+        "horario": "9:58",
+        "duracion": 120
+    },
+    {
+        "id": 96,
+        "peluqueriaId": 10,
+        "usuarioId": 7,
+        "estado": 1,
+        "fecha": "2021-07-30",
+        "horario": "10:10",
+        "duracion": 120
+    },
+    {
+        "id": 97,
+        "peluqueriaId": 2,
+        "usuarioId": 11,
+        "estado": 3,
+        "fecha": "2021-07-23",
+        "horario": "11:26",
+        "duracion": 30
+    },
+    {
+        "id": 98,
+        "peluqueriaId": 9,
+        "usuarioId": 17,
+        "estado": 1,
+        "fecha": "2021-07-24",
+        "horario": "11:41",
+        "duracion": 90
+    },
+    {
+        "id": 99,
+        "peluqueriaId": 41,
+        "usuarioId": 19,
+        "estado": 1,
+        "fecha": "2021-06-28",
+        "horario": "10:45",
+        "duracion": 90
+    },
+    {
+        "id": 100,
+        "peluqueriaId": 35,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-19",
+        "horario": "12:48",
+        "duracion": 30
+    },
+    {
+        "id": 101,
+        "peluqueriaId": 65,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-07-01",
+        "horario": "19:36",
+        "duracion": 90
+    },
+    {
+        "id": 102,
+        "peluqueriaId": 4,
+        "usuarioId": 20,
+        "estado": 1,
+        "fecha": "2021-07-14",
+        "horario": "11:32",
+        "duracion": 120
+    },
+    {
+        "id": 103,
+        "peluqueriaId": 94,
+        "usuarioId": 18,
+        "estado": 3,
+        "fecha": "2021-07-29",
+        "horario": "13:53",
+        "duracion": 90
+    },
+    {
+        "id": 104,
+        "peluqueriaId": 21,
+        "usuarioId": 11,
+        "estado": 3,
+        "fecha": "2021-07-18",
+        "horario": "19:38",
+        "duracion": 60
+    },
+    {
+        "id": 105,
+        "peluqueriaId": 16,
+        "usuarioId": 5,
+        "estado": 2,
+        "fecha": "2021-07-30",
+        "horario": "10:10",
+        "duracion": 120
+    },
+    {
+        "id": 106,
+        "peluqueriaId": 43,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-07-29",
+        "horario": "13:22",
+        "duracion": 90
+    },
+    {
+        "id": 107,
+        "peluqueriaId": 48,
+        "usuarioId": 5,
+        "estado": 3,
+        "fecha": "2021-07-27",
+        "horario": "18:22",
+        "duracion": 60
+    },
+    {
+        "id": 108,
+        "peluqueriaId": 66,
+        "usuarioId": 5,
+        "estado": 1,
+        "fecha": "2021-06-26",
+        "horario": "17:33",
+        "duracion": 60
+    },
+    {
+        "id": 109,
+        "peluqueriaId": 2,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-06-26",
+        "horario": "16:30",
+        "duracion": 120
+    },
+    {
+        "id": 110,
+        "peluqueriaId": 2,
+        "usuarioId": 1,
+        "estado": 1,
+        "fecha": "2021-06-27",
+        "horario": "15:19",
+        "duracion": 60
+    },
+    {
+        "id": 111,
+        "peluqueriaId": 93,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-06-24",
+        "horario": "17:42",
+        "duracion": 30
+    },
+    {
+        "id": 112,
+        "peluqueriaId": 30,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-07-30",
+        "horario": "13:46",
+        "duracion": 60
+    },
+    {
+        "id": 113,
+        "peluqueriaId": 59,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-07-15",
+        "horario": "11:08",
+        "duracion": 30
+    },
+    {
+        "id": 114,
+        "peluqueriaId": 58,
+        "usuarioId": 2,
+        "estado": 1,
+        "fecha": "2021-06-14",
+        "horario": "11:24",
+        "duracion": 120
+    },
+    {
+        "id": 115,
+        "peluqueriaId": 13,
+        "usuarioId": 4,
+        "estado": 1,
+        "fecha": "2021-07-06",
+        "horario": "19:43",
+        "duracion": 90
+    },
+    {
+        "id": 116,
+        "peluqueriaId": 94,
+        "usuarioId": 14,
+        "estado": 2,
+        "fecha": "2021-07-02",
+        "horario": "14:08",
+        "duracion": 30
+    },
+    {
+        "id": 117,
+        "peluqueriaId": 31,
+        "usuarioId": 6,
+        "estado": 3,
+        "fecha": "2021-07-30",
+        "horario": "15:00",
+        "duracion": 60
+    },
+    {
+        "id": 118,
+        "peluqueriaId": 27,
+        "usuarioId": 3,
+        "estado": 2,
+        "fecha": "2021-07-25",
+        "horario": "16:54",
+        "duracion": 90
+    },
+    {
+        "id": 119,
+        "peluqueriaId": 67,
+        "usuarioId": 14,
+        "estado": 1,
+        "fecha": "2021-06-20",
+        "horario": "12:31",
+        "duracion": 30
+    },
+    {
+        "id": 120,
+        "peluqueriaId": 18,
+        "usuarioId": 15,
+        "estado": 1,
+        "fecha": "2021-06-24",
+        "horario": "18:23",
+        "duracion": 90
+    },
+    {
+        "id": 121,
+        "peluqueriaId": 75,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-07-02",
+        "horario": "14:31",
+        "duracion": 30
+    },
+    {
+        "id": 122,
+        "peluqueriaId": 100,
+        "usuarioId": 9,
+        "estado": 3,
+        "fecha": "2021-07-11",
+        "horario": "17:15",
+        "duracion": 30
+    },
+    {
+        "id": 123,
+        "peluqueriaId": 78,
+        "usuarioId": 13,
+        "estado": 3,
+        "fecha": "2021-07-24",
+        "horario": "14:38",
+        "duracion": 30
+    },
+    {
+        "id": 124,
+        "peluqueriaId": 84,
+        "usuarioId": 14,
+        "estado": 3,
+        "fecha": "2021-07-12",
+        "horario": "9:36",
+        "duracion": 90
+    },
+    {
+        "id": 125,
+        "peluqueriaId": 72,
+        "usuarioId": 5,
+        "estado": 1,
+        "fecha": "2021-07-26",
+        "horario": "9:25",
+        "duracion": 30
+    },
+    {
+        "id": 126,
+        "peluqueriaId": 39,
+        "usuarioId": 20,
+        "estado": 1,
+        "fecha": "2021-07-15",
+        "horario": "9:43",
+        "duracion": 60
+    },
+    {
+        "id": 127,
+        "peluqueriaId": 16,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-06-21",
+        "horario": "16:49",
+        "duracion": 120
+    },
+    {
+        "id": 128,
+        "peluqueriaId": 34,
+        "usuarioId": 18,
+        "estado": 1,
+        "fecha": "2021-07-02",
+        "horario": "9:07",
+        "duracion": 60
+    },
+    {
+        "id": 129,
+        "peluqueriaId": 70,
+        "usuarioId": 5,
+        "estado": 3,
+        "fecha": "2021-07-18",
+        "horario": "16:41",
+        "duracion": 30
+    },
+    {
+        "id": 130,
+        "peluqueriaId": 36,
+        "usuarioId": 3,
+        "estado": 3,
+        "fecha": "2021-07-02",
+        "horario": "11:09",
+        "duracion": 30
+    },
+    {
+        "id": 131,
+        "peluqueriaId": 59,
+        "usuarioId": 3,
+        "estado": 1,
+        "fecha": "2021-06-17",
+        "horario": "18:49",
+        "duracion": 90
+    },
+    {
+        "id": 132,
+        "peluqueriaId": 38,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-06-15",
+        "horario": "17:44",
+        "duracion": 90
+    },
+    {
+        "id": 133,
+        "peluqueriaId": 71,
+        "usuarioId": 13,
+        "estado": 1,
+        "fecha": "2021-07-11",
+        "horario": "9:58",
+        "duracion": 30
+    },
+    {
+        "id": 134,
+        "peluqueriaId": 21,
+        "usuarioId": 7,
+        "estado": 1,
+        "fecha": "2021-07-07",
+        "horario": "12:57",
+        "duracion": 30
+    },
+    {
+        "id": 135,
+        "peluqueriaId": 58,
+        "usuarioId": 19,
+        "estado": 1,
+        "fecha": "2021-07-29",
+        "horario": "14:30",
+        "duracion": 90
+    },
+    {
+        "id": 136,
+        "peluqueriaId": 6,
+        "usuarioId": 18,
+        "estado": 2,
+        "fecha": "2021-06-16",
+        "horario": "14:37",
+        "duracion": 90
+    },
+    {
+        "id": 137,
+        "peluqueriaId": 6,
+        "usuarioId": 18,
+        "estado": 1,
+        "fecha": "2021-07-01",
+        "horario": "10:18",
+        "duracion": 90
+    },
+    {
+        "id": 138,
+        "peluqueriaId": 31,
+        "usuarioId": 6,
+        "estado": 3,
+        "fecha": "2021-07-15",
+        "horario": "15:17",
+        "duracion": 120
+    },
+    {
+        "id": 139,
+        "peluqueriaId": 85,
+        "usuarioId": 7,
+        "estado": 1,
+        "fecha": "2021-07-11",
+        "horario": "13:18",
+        "duracion": 30
+    },
+    {
+        "id": 140,
+        "peluqueriaId": 7,
+        "usuarioId": 19,
+        "estado": 1,
+        "fecha": "2021-06-28",
+        "horario": "11:02",
+        "duracion": 30
+    },
+    {
+        "id": 141,
+        "peluqueriaId": 4,
+        "usuarioId": 10,
+        "estado": 2,
+        "fecha": "2021-06-24",
+        "horario": "11:03",
+        "duracion": 60
+    },
+    {
+        "id": 142,
+        "peluqueriaId": 43,
+        "usuarioId": 17,
+        "estado": 2,
+        "fecha": "2021-06-24",
+        "horario": "14:14",
+        "duracion": 120
+    },
+    {
+        "id": 143,
+        "peluqueriaId": 9,
+        "usuarioId": 7,
+        "estado": 1,
+        "fecha": "2021-07-09",
+        "horario": "19:24",
+        "duracion": 90
+    },
+    {
+        "id": 144,
+        "peluqueriaId": 3,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-06-30",
+        "horario": "17:15",
+        "duracion": 90
+    },
+    {
+        "id": 145,
+        "peluqueriaId": 100,
+        "usuarioId": 9,
+        "estado": 1,
+        "fecha": "2021-07-17",
+        "horario": "14:29",
+        "duracion": 30
+    },
+    {
+        "id": 146,
+        "peluqueriaId": 44,
+        "usuarioId": 6,
+        "estado": 2,
+        "fecha": "2021-06-19",
+        "horario": "11:37",
+        "duracion": 120
+    },
+    {
+        "id": 147,
+        "peluqueriaId": 71,
+        "usuarioId": 13,
+        "estado": 2,
+        "fecha": "2021-07-08",
+        "horario": "11:40",
+        "duracion": 60
+    },
+    {
+        "id": 148,
+        "peluqueriaId": 37,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-26",
+        "horario": "14:12",
+        "duracion": 120
+    },
+    {
+        "id": 149,
+        "peluqueriaId": 81,
+        "usuarioId": 18,
+        "estado": 2,
+        "fecha": "2021-07-07",
+        "horario": "17:28",
+        "duracion": 60
+    },
+    {
+        "id": 150,
+        "peluqueriaId": 68,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-07-05",
+        "horario": "11:39",
+        "duracion": 90
+    },
+    {
+        "id": 151,
+        "peluqueriaId": 37,
+        "usuarioId": 1,
+        "estado": 3,
+        "fecha": "2021-06-29",
+        "horario": "15:10",
+        "duracion": 120
+    },
+    {
+        "id": 152,
+        "peluqueriaId": 76,
+        "usuarioId": 2,
+        "estado": 1,
+        "fecha": "2021-07-01",
+        "horario": "16:18",
+        "duracion": 120
+    },
+    {
+        "id": 153,
+        "peluqueriaId": 89,
+        "usuarioId": 16,
+        "estado": 2,
+        "fecha": "2021-07-25",
+        "horario": "12:52",
+        "duracion": 90
+    },
+    {
+        "id": 154,
+        "peluqueriaId": 39,
+        "usuarioId": 6,
+        "estado": 3,
+        "fecha": "2021-07-02",
+        "horario": "12:31",
+        "duracion": 90
+    },
+    {
+        "id": 155,
+        "peluqueriaId": 3,
+        "usuarioId": 12,
+        "estado": 2,
+        "fecha": "2021-07-30",
+        "horario": "17:41",
+        "duracion": 30
+    },
+    {
+        "id": 156,
+        "peluqueriaId": 14,
+        "usuarioId": 7,
+        "estado": 2,
+        "fecha": "2021-06-26",
+        "horario": "16:17",
+        "duracion": 120
+    },
+    {
+        "id": 157,
+        "peluqueriaId": 13,
+        "usuarioId": 16,
+        "estado": 3,
+        "fecha": "2021-07-25",
+        "horario": "19:47",
+        "duracion": 60
+    },
+    {
+        "id": 158,
+        "peluqueriaId": 61,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-30",
+        "horario": "9:42",
+        "duracion": 120
+    },
+    {
+        "id": 159,
+        "peluqueriaId": 72,
+        "usuarioId": 9,
+        "estado": 3,
+        "fecha": "2021-07-05",
+        "horario": "10:30",
+        "duracion": 120
+    },
+    {
+        "id": 160,
+        "peluqueriaId": 38,
+        "usuarioId": 20,
+        "estado": 2,
+        "fecha": "2021-06-17",
+        "horario": "14:01",
+        "duracion": 60
+    },
+    {
+        "id": 161,
+        "peluqueriaId": 22,
+        "usuarioId": 13,
+        "estado": 1,
+        "fecha": "2021-06-23",
+        "horario": "10:07",
+        "duracion": 120
+    },
+    {
+        "id": 162,
+        "peluqueriaId": 75,
+        "usuarioId": 16,
+        "estado": 2,
+        "fecha": "2021-07-23",
+        "horario": "14:24",
+        "duracion": 30
+    },
+    {
+        "id": 163,
+        "peluqueriaId": 31,
+        "usuarioId": 18,
+        "estado": 3,
+        "fecha": "2021-07-16",
+        "horario": "19:35",
+        "duracion": 90
+    },
+    {
+        "id": 164,
+        "peluqueriaId": 99,
+        "usuarioId": 17,
+        "estado": 1,
+        "fecha": "2021-07-07",
+        "horario": "13:29",
+        "duracion": 60
+    },
+    {
+        "id": 165,
+        "peluqueriaId": 14,
+        "usuarioId": 8,
+        "estado": 2,
+        "fecha": "2021-07-25",
+        "horario": "15:24",
+        "duracion": 30
+    },
+    {
+        "id": 166,
+        "peluqueriaId": 88,
+        "usuarioId": 3,
+        "estado": 1,
+        "fecha": "2021-07-02",
+        "horario": "13:11",
+        "duracion": 30
+    },
+    {
+        "id": 167,
+        "peluqueriaId": 73,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-12",
+        "horario": "15:37",
+        "duracion": 120
+    },
+    {
+        "id": 168,
+        "peluqueriaId": 73,
+        "usuarioId": 16,
+        "estado": 1,
+        "fecha": "2021-06-28",
+        "horario": "12:12",
+        "duracion": 90
+    },
+    {
+        "id": 169,
+        "peluqueriaId": 53,
+        "usuarioId": 1,
+        "estado": 2,
+        "fecha": "2021-06-26",
+        "horario": "12:36",
+        "duracion": 60
+    },
+    {
+        "id": 170,
+        "peluqueriaId": 49,
+        "usuarioId": 16,
+        "estado": 1,
+        "fecha": "2021-07-12",
+        "horario": "16:17",
+        "duracion": 120
+    },
+    {
+        "id": 171,
+        "peluqueriaId": 77,
+        "usuarioId": 10,
+        "estado": 2,
+        "fecha": "2021-07-15",
+        "horario": "10:27",
+        "duracion": 120
+    },
+    {
+        "id": 172,
+        "peluqueriaId": 60,
+        "usuarioId": 2,
+        "estado": 1,
+        "fecha": "2021-07-22",
+        "horario": "12:41",
+        "duracion": 30
+    },
+    {
+        "id": 173,
+        "peluqueriaId": 73,
+        "usuarioId": 1,
+        "estado": 3,
+        "fecha": "2021-06-16",
+        "horario": "11:41",
+        "duracion": 30
+    },
+    {
+        "id": 174,
+        "peluqueriaId": 38,
+        "usuarioId": 4,
+        "estado": 2,
+        "fecha": "2021-07-01",
+        "horario": "10:10",
+        "duracion": 30
+    },
+    {
+        "id": 175,
+        "peluqueriaId": 84,
+        "usuarioId": 19,
+        "estado": 3,
+        "fecha": "2021-06-24",
+        "horario": "12:33",
+        "duracion": 90
+    },
+    {
+        "id": 176,
+        "peluqueriaId": 26,
+        "usuarioId": 13,
+        "estado": 3,
+        "fecha": "2021-06-19",
+        "horario": "11:14",
+        "duracion": 90
+    },
+    {
+        "id": 177,
+        "peluqueriaId": 47,
+        "usuarioId": 9,
+        "estado": 2,
+        "fecha": "2021-06-21",
+        "horario": "9:18",
+        "duracion": 60
+    },
+    {
+        "id": 178,
+        "peluqueriaId": 29,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-07-31",
+        "horario": "10:29",
+        "duracion": 120
+    },
+    {
+        "id": 179,
+        "peluqueriaId": 69,
+        "usuarioId": 8,
+        "estado": 1,
+        "fecha": "2021-07-29",
+        "horario": "9:15",
+        "duracion": 30
+    },
+    {
+        "id": 180,
+        "peluqueriaId": 43,
+        "usuarioId": 2,
+        "estado": 3,
+        "fecha": "2021-07-20",
+        "horario": "17:33",
+        "duracion": 120
+    },
+    {
+        "id": 181,
+        "peluqueriaId": 80,
+        "usuarioId": 6,
+        "estado": 2,
+        "fecha": "2021-06-15",
+        "horario": "11:01",
+        "duracion": 60
+    },
+    {
+        "id": 182,
+        "peluqueriaId": 53,
+        "usuarioId": 14,
+        "estado": 1,
+        "fecha": "2021-06-15",
+        "horario": "15:34",
+        "duracion": 30
+    },
+    {
+        "id": 183,
+        "peluqueriaId": 65,
+        "usuarioId": 7,
+        "estado": 3,
+        "fecha": "2021-07-04",
+        "horario": "13:20",
+        "duracion": 60
+    },
+    {
+        "id": 184,
+        "peluqueriaId": 77,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-06-22",
+        "horario": "9:11",
+        "duracion": 120
+    },
+    {
+        "id": 185,
+        "peluqueriaId": 100,
+        "usuarioId": 11,
+        "estado": 1,
+        "fecha": "2021-06-24",
+        "horario": "13:17",
+        "duracion": 90
+    },
+    {
+        "id": 186,
+        "peluqueriaId": 79,
+        "usuarioId": 6,
+        "estado": 1,
+        "fecha": "2021-07-16",
+        "horario": "10:51",
+        "duracion": 60
+    },
+    {
+        "id": 187,
+        "peluqueriaId": 6,
+        "usuarioId": 5,
+        "estado": 3,
+        "fecha": "2021-07-30",
+        "horario": "17:49",
+        "duracion": 30
+    },
+    {
+        "id": 188,
+        "peluqueriaId": 62,
+        "usuarioId": 2,
+        "estado": 3,
+        "fecha": "2021-07-02",
+        "horario": "11:47",
+        "duracion": 120
+    },
+    {
+        "id": 189,
+        "peluqueriaId": 56,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-07-05",
+        "horario": "19:37",
+        "duracion": 30
+    },
+    {
+        "id": 190,
+        "peluqueriaId": 72,
+        "usuarioId": 20,
+        "estado": 3,
+        "fecha": "2021-06-21",
+        "horario": "11:03",
+        "duracion": 60
+    },
+    {
+        "id": 191,
+        "peluqueriaId": 81,
+        "usuarioId": 2,
+        "estado": 2,
+        "fecha": "2021-07-18",
+        "horario": "18:56",
+        "duracion": 60
+    },
+    {
+        "id": 192,
+        "peluqueriaId": 34,
+        "usuarioId": 2,
+        "estado": 1,
+        "fecha": "2021-07-14",
+        "horario": "16:34",
+        "duracion": 90
+    },
+    {
+        "id": 193,
+        "peluqueriaId": 72,
+        "usuarioId": 15,
+        "estado": 3,
+        "fecha": "2021-06-21",
+        "horario": "12:34",
+        "duracion": 30
+    },
+    {
+        "id": 194,
+        "peluqueriaId": 68,
+        "usuarioId": 20,
+        "estado": 1,
+        "fecha": "2021-06-22",
+        "horario": "13:24",
+        "duracion": 90
+    },
+    {
+        "id": 195,
+        "peluqueriaId": 17,
+        "usuarioId": 12,
+        "estado": 3,
+        "fecha": "2021-06-20",
+        "horario": "11:56",
+        "duracion": 120
+    },
+    {
+        "id": 196,
+        "peluqueriaId": 3,
+        "usuarioId": 15,
+        "estado": 1,
+        "fecha": "2021-07-27",
+        "horario": "13:16",
+        "duracion": 90
+    },
+    {
+        "id": 197,
+        "peluqueriaId": 38,
+        "usuarioId": 6,
+        "estado": 2,
+        "fecha": "2021-07-17",
+        "horario": "15:55",
+        "duracion": 90
+    },
+    {
+        "id": 198,
+        "peluqueriaId": 73,
+        "usuarioId": 19,
+        "estado": 3,
+        "fecha": "2021-07-17",
+        "horario": "11:53",
+        "duracion": 120
+    },
+    {
+        "id": 199,
+        "peluqueriaId": 55,
+        "usuarioId": 6,
+        "estado": 3,
+        "fecha": "2021-06-27",
+        "horario": "19:08",
+        "duracion": 60
+    },
+    {
+        "id": 200,
+        "peluqueriaId": 65,
+        "usuarioId": 7,
+        "estado": 2,
+        "fecha": "2021-07-01",
+        "horario": "17:27",
+        "duracion": 90
+    }
+]

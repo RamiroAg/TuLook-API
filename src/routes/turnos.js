@@ -3,6 +3,9 @@ const router = Router();
 const _ = require('underscore');
 const fs = require('fs');
 
+const TurnosService = require('../services/TurnoService');
+const TurnosServiceInstance = new TurnosService();
+
 const turnos = require('../data/turnos.json');
 
 router.get('/', (req, res) => {
@@ -19,6 +22,36 @@ router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
             return t.peluqueriaId == peluqueriaId;
         }
     ));
+});
+
+// router.get('/probando-1/:peluqueriaId/:fecha', (req, res) => {
+//     const { peluqueriaId, fecha } = req.params;
+
+//     let date = new Date(fecha);
+//     if (!isNaN(date)) {
+//         res.status(200)
+//         .send(TurnosServiceInstance.getAllFranjasByPeluqueria(peluqueriaId, date));        
+//     }
+//     else{
+//         res.status(500).send({'error':'Fecha inválida'});
+//     }
+// });
+
+router.get('/turnosLibres/:peluqueriaId/:fecha', (req, res) => {
+    const { peluqueriaId, fecha } = req.params;
+
+    // res.send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
+    
+
+    let date = new Date(fecha);
+    if (!isNaN(date)) {
+        res.status(200)
+        // .send(TurnosServiceInstance.getAllFranjasByPeluqueria(peluqueriaId, date));
+        .send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
+    }
+    else{
+        res.status(500).send({'error':'Fecha inválida'});
+    }
 });
 
 router.get('/byPeluqueria/:peluqueriaId/:fecha', (req, res) => {
@@ -43,9 +76,9 @@ router.get('/byUsuario/:usuarioId', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const { peluqueriaId, usuarioId, estado, horario, duracion } = req.body;
+    const { peluqueriaId, usuarioId, estado, fecha, duracion } = req.body;
 
-    if (peluqueriaId && usuarioId && estado && horario && duracion) {
+    if (peluqueriaId && usuarioId && estado && fecha && duracion) {
         const id = turnos.length + 1;
         const newTurno = { ...req.body, id };
 
@@ -63,15 +96,15 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
     const { id } = req.params;
-    const { peluqueriaId, usuarioId, estado, horario, duracion } = req.body;
+    const { peluqueriaId, usuarioId, estado, fecha, duracion } = req.body;
 
-    if (peluqueriaId && usuarioId && estado && horario && duracion) {
+    if (peluqueriaId && usuarioId && estado && fecha && duracion) {
         _.each(turnos, (turno, i) => {
             if (turno.id == id) {
                 turno.peluqueriaId = peluqueriaId;
                 turno.usuarioId = usuarioId;
                 turno.estado = estado;
-                turno.horario = horario;
+                turno.fecha = fecha;
                 turno.duracion = duracion;
             }
         });
