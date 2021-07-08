@@ -13,12 +13,13 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 //Firebase
-const config = process.env.GOOGLE_CONFIG_BASE64 ?? require('./data/firebase_data.json').GOOGLE_CONFIG_BASE64
-const cert = JSON.parse(Buffer.from(config, 'base64').toString('ascii'));
+//TODO: Descomentar
+// const config = process.env.GOOGLE_CONFIG_BASE64 ?? require('./data/firebase_data.json').GOOGLE_CONFIG_BASE64;
+// const cert = JSON.parse(Buffer.from(config, 'base64').toString('ascii'));
 
-admin.initializeApp({
-    credential: admin.credential.cert(cert)
-})
+// admin.initializeApp({
+//     credential: admin.credential.cert(cert)
+// })
 
 
 //Routes
