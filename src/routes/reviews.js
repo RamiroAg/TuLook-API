@@ -45,9 +45,9 @@ router.get('/byUsuario/:usuarioId', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const { turnoId, comentario, calificacion } = req.body;
+    const { comentario, calificacion, peluqueriaId, usuarioId } = req.body;
 
-    if (turnoId && comentario && calificacion) {
+    if (comentario && calificacion && peluqueriaId && usuarioId) {
         const id = reviews.length + 1;
         const newReview = { ...req.body, id };
 
@@ -65,14 +65,15 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
     const { id } = req.params;
-    const { turnoId, comentario, calificacion } = req.body;
+    const { comentario, calificacion, peluqueriaId, usuarioId } = req.body;
 
-    if (turnoId && comentario && calificacion) {
+    if (comentario && calificacion && peluqueriaId && usuarioId) {
         _.each(reviews, (review, i) => {
             if (review.id == id) {
-                review.turnoId = turnoId;
                 review.comentario = comentario;
                 review.calificacion = calificacion;
+                review.peluqueriaId = peluqueriaId;
+                review.usuarioId = usuarioId;
 
                 saveReviews(reviews);
             }
