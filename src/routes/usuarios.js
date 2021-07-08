@@ -22,19 +22,42 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const { nombre, apellido, direccion, peluqueriasFavoritas } = req.body;
+    const {
+        id,
+        nombre,
+        notificationToken
+    } = req.body;
 
-    if (nombre && apellido && direccion && peluqueriasFavoritas) {
-        const id = usuarios.length + 1;
-        const newUsuario = { ...req.body, id };
+    console.log(id, nombre, notificationToken)
+    // nos tiene que mandar id la app porque vamos a usar el id de firebase para
+    // identificar el usuario y "autenticar"
+    if (id) {
+        const newUsuario = { id, nombre, notificationToken }
+        const previousUsuarioIndex = usuarios.findIndex(user => user.id === id);
 
-        usuarios.push(newUsuario);
-        saveUsuarios(usuarios);
+        if (previousUsuarioIndex >= 0) {
+            // si ya existia ese id hago upsert
+            usuarios[previousUsuarioIndex] = {
+                ...usuarios[previousUsuarioIndex],
+                ...newUsuario
+            }
 
-        res.status(200)
-            .send(newUsuario);
-    }
-    else {
+            saveUsuarios(usuarios)
+
+            res.status(200)
+                .send({ id, nombre, notificationToken })
+        } else if (nombre && notificationToken) {
+            // si no existia ese id hago insert sin filtrar
+            usuarios.push(newUsuario);
+            saveUsuarios(usuarios);
+
+            res.status(200)
+                .send(newUsuario);
+        } else {
+            res.status(500)
+                .json({ "error": "Error al recibir todos los parámetros" });
+        }
+    } else {
         res.status(500)
             .json({ "error": "Error al recibir todos los parámetros" });
     }
