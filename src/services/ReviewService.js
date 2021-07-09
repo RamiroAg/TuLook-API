@@ -15,22 +15,32 @@ class ReviewService {
         })[0];
     }
 
+    // getByPeluqueria(peluqueriaId) {
+    //     //Levantar todos los turnos de la peluquería
+    //     var turnosByPeluqueria = this.turnos.filter(
+    //         function (t) {
+    //             return (t.peluqueriaId == peluqueriaId)
+    //         });
+    //     //Para cada turno levantar el review por ID y meterlo en un array
+    //     var ret = [];
+    //     _.each(turnosByPeluqueria, (t, i) => {
+    //         const _review = this.getByTurnoId(t.id);
+    //         if (_review) {
+    //             ret.push(_review);
+    //         }
+    //     });
+
+    //     return ret;
+    // }
+
     getByPeluqueria(peluqueriaId) {
-        //Levantar todos los turnos de la peluquería
-        var turnosByPeluqueria = this.turnos.filter(
+        //Levantar todos los reviews de la peluquería
+        var reviewsByPeluqueria = this.reviews.filter(
             function (t) {
                 return (t.peluqueriaId == peluqueriaId)
             });
-        //Para cada turno levantar el review por ID y meterlo en un array
-        var ret = [];
-        _.each(turnosByPeluqueria, (t, i) => {
-            const _review = this.getByTurnoId(t.id);
-            if (_review) {
-                ret.push(_review);
-            }
-        });
-
-        return ret;
+    
+        return reviewsByPeluqueria;
     }
 
     //Manejo de Persistencia
