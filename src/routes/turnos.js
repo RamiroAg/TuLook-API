@@ -19,7 +19,8 @@ router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
 
     res.send(turnos.filter(
         function (t) {
-            return t.peluqueriaId == peluqueriaId;
+            return t.peluqueriaId == peluqueriaId
+                && t.estado != 3;
         }
     ));
 });
@@ -39,18 +40,18 @@ router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
 
 router.get('/turnosLibres/:peluqueriaId/:fecha', (req, res) => {
     const { peluqueriaId, fecha } = req.params;
-
+console.log("Params: Fecha", fecha);
     // res.send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
-    
+
 
     let date = new Date(fecha);
     if (!isNaN(date)) {
         res.status(200)
-        // .send(TurnosServiceInstance.getAllFranjasByPeluqueria(peluqueriaId, date));
-        .send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
+            // .send(TurnosServiceInstance.getAllFranjasByPeluqueria(peluqueriaId, date));
+            .send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
     }
-    else{
-        res.status(500).send({'error':'Fecha inválida'});
+    else {
+        res.status(500).send({ 'error': 'Fecha inválida' });
     }
 });
 
@@ -70,15 +71,17 @@ router.get('/byUsuario/:usuarioId', (req, res) => {
 
     res.send(turnos.filter(
         function (t) {
-            return t.usuarioId == usuarioId;
+            return t.usuarioId == usuarioId
+            && t.estado != 3;   //No muestro turnos
         }
     ));
 });
 
 router.post('/', (req, res) => {
-    const { peluqueriaId, usuarioId, estado, fecha, duracion } = req.body;
+    const { peluqueriaId, usuarioId, estado, fecha, duracion, servicios } = req.body;
+    console.log("TUrnos/POST", peluqueriaId, usuarioId, estado, fecha, duracion, servicios);
 
-    if (peluqueriaId && usuarioId && estado && fecha && duracion) {
+    if (peluqueriaId && usuarioId && estado && fecha && duracion && servicios) {
         const id = turnos.length + 1;
         const newTurno = { ...req.body, id };
 
@@ -96,16 +99,12 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
     const { id } = req.params;
-    const { peluqueriaId, usuarioId, estado, fecha, duracion } = req.body;
+    const { estado } = req.body;
 
-    if (peluqueriaId && usuarioId && estado && fecha && duracion) {
+    if (estado) {
         _.each(turnos, (turno, i) => {
             if (turno.id == id) {
-                turno.peluqueriaId = peluqueriaId;
-                turno.usuarioId = usuarioId;
                 turno.estado = estado;
-                turno.fecha = fecha;
-                turno.duracion = duracion;
             }
         });
         saveTurnos(turnos);

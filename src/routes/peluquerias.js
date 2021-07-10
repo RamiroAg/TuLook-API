@@ -25,6 +25,9 @@ router.get('/:id', (req, res) => {
     const { id } = req.params;
     _.each(peluquerias, (peluqueria, i) => {
         if (peluqueria.id == id) {
+            // peluqueria.horarioApertura = getDateUTC(peluqueria.horarioApertura);            
+            // peluqueria.horarioCierre = getDateUTC(peluqueria.horarioCierre);
+
             if (peluqueria.direccionId) {
                 peluqueria.direccion = DireccionServiceInstance.getById(peluqueria.direccionId);
             }
@@ -37,7 +40,8 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
     const { nombre, direccionId, servicios,
-        horarioApertura, horarioCierre, rating } = req.body;
+        horarioApertura, horarioCierre, rating,
+        latitud, longitud } = req.body;
 
     if (nombre && direccionId && servicios
         && horarioApertura && horarioCierre && rating) {
@@ -59,7 +63,8 @@ router.post('/', (req, res) => {
 router.put('/:id', (req, res) => {
     const { id } = req.params;
     const { nombre, direccionId, servicios,
-        horarioApertura, horarioCierre, rating } = req.body;
+        horarioApertura, horarioCierre, rating,
+        latitud, longitud } = req.body;
 
     if (nombre && direccionId && servicios
         && horarioApertura && horarioCierre && rating) {
@@ -71,6 +76,8 @@ router.put('/:id', (req, res) => {
                 peluqueria.horarioApertura = horarioApertura;
                 peluqueria.horarioCierre = horarioCierre;
                 peluqueria.rating = rating;
+                peluqueria.latitud = latitud;
+                peluqueria.longitud = longitud;       
 
                 savePeluquerias(peluquerias);
             }
@@ -96,7 +103,15 @@ router.delete('/:id', (req, res) => {
     res.json(peluquerias);
 });
 
-
+// const getDateUTC = (date) => {
+//     let d = new Date(date);
+//     let ret = null;
+//     if (d) {
+//         ret = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate(), d.getHours(), d.getMinutes()));
+//     }
+//     console.log("getDateUTC", d.getFullYear(), d.getMonth(), d.getDate(), d.getHours(), d.getMinutes());
+//     return ret;
+// }
 
 //Manejo de Persistencia
 const dataSource = 'src/data/peluquerias.json';

@@ -8,9 +8,13 @@ class PeluqueriaService {
     }
 
     getById(id) {
-        return this.peluquerias.filter(function (d) {
+        let p = null;
+        p = this.peluquerias.filter(function (d) {
             return (d.id == id);
         })[0];
+        
+        console.log("Peluqueria", p);
+        return p;
     }
 }
 

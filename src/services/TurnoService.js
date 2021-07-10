@@ -12,8 +12,10 @@ class TurnoService {
     getAllFranjasByPeluqueria(peluqueriaId, fecha) {
         try {
             fecha = new Date(fecha);
-            // console.log("Fecha", fecha);
+            console.log("Fecha", fecha);
             let p = this.peluqueriaService.getById(peluqueriaId);
+            
+            console.log("apertura/cierre pre cambio", p.horarioApertura, p.horarioCierre);
             p.horarioApertura = new Date(this.setDate(p.horarioApertura, fecha));
             p.horarioCierre = new Date(this.setDate(p.horarioCierre, fecha));
     
@@ -56,13 +58,15 @@ class TurnoService {
             for (let index = 0; index < cantidadFranjas; index++) {
                 console.log('minutos', new Date(t.fecha).getMinutes());
                 var franja = new Date(t.fecha);
-                franja.setMinutes(30 * index);
+                franja = new Date(Date.UTC(franja.getFullYear(), franja.getMonth(), franja.getDate(), franja.getHours(), franja.getMinutes()));
+                console.log("Franja antes de aumentar minutos", franja);
+                franja.setMinutes(franja.getMinutes() + (30 * index));
                 // franja = new Date(Date.UTC(franja));
                 // console.log("probando si está bien", franja);
-                console.log('insertandoFranja ocupada', new Date(t.fecha));
+                console.log('insertandoFranja ocupada', franja);
                 franjasOcupadas.push(franja);
                 console.log('Turno - Franjas que ocupa', t.id,
-                    new Date(Date.UTC(franja.getFullYear(), franja.getMonth(), franja.getDate(), franja.getHours(), franja.getMinutes())));
+                    franja);
             }
 
         });
@@ -70,7 +74,7 @@ class TurnoService {
         let franjasDiarias = this.getAllFranjasByPeluqueria(peluqueriaId, fecha);
         // console.log('franjasDiarias', franjasDiarias);
         _.each(franjasOcupadas, (o, i) => {
-            o = this.getDateUTC(o);
+            o = new Date(o);
             for (let index = 0; index < franjasDiarias.length; index++) {
                 const f = franjasDiarias[index];
 
@@ -108,6 +112,7 @@ class TurnoService {
             function (t) {
                 let date = new Date(t.fecha);
                 return t.peluqueriaId == peluqueriaId
+                    && t.estado != 3
                     && date.getFullYear() == fecha.getFullYear()
                     && date.getMonth() == fecha.getMonth()
                     && date.getDate() == fecha.getUTCDate();
@@ -123,8 +128,12 @@ class TurnoService {
 
     setDate(target, date) {
         try {
+            console.log("SetDate-------------------------------------------------------");
+            console.log("params: (target, date)", target, date);
             date = new Date(date);
+            // var ret = new Date(target).setFullYear(date.getFullYear(), date.getMonth(), date.getUTCDate());
             var ret = new Date(target).setFullYear(date.getFullYear(), date.getMonth(), date.getUTCDate());
+            console.log("target", target);
             console.log("date", date);
             console.log("new date", new Date(date), date.getUTCDate());
             console.log("ret", new Date(ret));
@@ -137,12 +146,17 @@ class TurnoService {
     }
 
     getDateUTC(date) {
-        let d = new Date(date);
-        let ret = null;
-        if (d) {
-            ret = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate(), d.getHours(), d.getMinutes()))
-        }
-        return ret;
+        // console.log("    getDateUTC-----------------------------------------------------");
+        // console.log("params: (date)", date);
+        // var d = new Date(date);
+        // console.log("var aux d", d);
+        // let ret = null;
+        // if (d) {
+        //     ret = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate(), d.getHours(), d.getMinutes()))
+        // }
+        // console.log("getDateUTC", d.getFullYear(), d.getMonth(), d.getDate(), d.getHours(), d.getMinutes());
+        // return ret;
+        return new Date(date);
     }
 }
 
