@@ -2,6 +2,7 @@ const { Router, request } = require('express');
 const router = Router();
 const _ = require('underscore');
 const fs = require('fs');
+const admin = require('firebase-admin')
 
 const usuarios = require('../data/usuarios.json');
 
@@ -28,7 +29,6 @@ router.post('/', (req, res) => {
         notificationToken
     } = req.body;
 
-    console.log(id, nombre, notificationToken)
     // nos tiene que mandar id la app porque vamos a usar el id de firebase para
     // identificar el usuario y "autenticar"
     if (id) {
@@ -110,6 +110,27 @@ const getUsuarios = () => {
     const jsonData = fs.readFileSync(dataSource)
     return JSON.parse(jsonData)
 }
+
+
+const notifyUsuario = (id, title, body) => {
+    const usuarios = getUsuarios();
+    const usuario = usuarios.find(usuario => usuario.id === id);
+
+    if (!usuario || !usuario.notificationToken) return;
+
+    admin.messaging().sendToDevice(usuario.notificationToken, {
+        notification: {
+            title,
+            body
+        }
+    });
+
+}
 //Manejo de Persistencia /
 
-module.exports = router;
+module.exports.router = router;
+module.exports.persistence = {
+    saveUsuarios,
+    getUsuarios,
+    notifyUsuario
+}

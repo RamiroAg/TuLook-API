@@ -114,4 +114,8 @@ const getReviews = () => {
 }
 //Manejo de Persistencia /
 
-module.exports = router;
+module.exports.router = router;
+module.exports.persistence = {
+    saveReviews,
+    getReviews
+}

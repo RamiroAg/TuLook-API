@@ -77,7 +77,7 @@ router.put('/:id', (req, res) => {
                 peluqueria.horarioCierre = horarioCierre;
                 peluqueria.rating = rating;
                 peluqueria.latitud = latitud;
-                peluqueria.longitud = longitud;       
+                peluqueria.longitud = longitud;
 
                 savePeluquerias(peluquerias);
             }
@@ -128,4 +128,8 @@ const getPeluquerias = () => {
 //Manejo de Persistencia /
 
 
-module.exports = router;
+module.exports.router = router;
+module.exports.persistence = {
+    savePeluquerias,
+    getPeluquerias
+}

@@ -3,6 +3,9 @@ const router = Router();
 const _ = require('underscore');
 const fs = require('fs');
 
+const Usuarios = require("./usuarios").persistence
+const Peluquerias = require("./peluquerias").persistence
+
 const TurnosService = require('../services/TurnoService');
 const TurnosServiceInstance = new TurnosService();
 
@@ -40,7 +43,7 @@ router.get('/byPeluqueria/:peluqueriaId', (req, res) => {
 
 router.get('/turnosLibres/:peluqueriaId/:fecha', (req, res) => {
     const { peluqueriaId, fecha } = req.params;
-console.log("Params: Fecha", fecha);
+    console.log("Params: Fecha", fecha);
     // res.send(TurnosServiceInstance.getAllTurnosDisponibles(peluqueriaId, fecha));
 
 
@@ -72,7 +75,7 @@ router.get('/byUsuario/:usuarioId', (req, res) => {
     res.send(turnos.filter(
         function (t) {
             return t.usuarioId == usuarioId
-            && t.estado != 3;   //No muestro turnos
+                && t.estado != 3;   //No muestro turnos
         }
     ));
 });
@@ -104,6 +107,39 @@ router.put('/:id', (req, res) => {
     if (estado) {
         _.each(turnos, (turno, i) => {
             if (turno.id == id) {
+                // notifico al usuario
+                if (turno.estado === 1 && estado !== 1) {
+                    const { peluqueriaId, usuarioId, fecha } = turno;
+
+                    // obtengo peluqueria
+                    const peluqueria = Peluquerias.getPeluquerias().find(peluqueria => peluqueria.id === peluqueriaId)
+                    if (!peluqueria) {
+                        res.status(500).json({ "error": "Peluquería invalida" })
+                        return
+                    }
+
+                    // genero mensaje
+                    const dia = fecha.split("T")[0];
+
+                    let accion = "";
+                    let title = "";
+
+                    if (estado === 2) {
+                        accion = "confirmado"
+                        title = "Turno Aceptado"
+                    }
+
+                    if (estado === 3) {
+                        accion = "cancelado"
+                        title = "Turno Cancelado"
+                    }
+
+
+                    let message = `Tu turno en la peluquería ${peluqueria.nombre} el día ${dia} fue ${accion}.`
+                    console.log(message)
+                    Usuarios.notifyUsuario(usuarioId, title, message);
+                }
+
                 turno.estado = estado;
             }
         });
@@ -143,4 +179,8 @@ const getTurnos = () => {
 }
 //Manejo de Persistencia /
 
-module.exports = router;
+module.exports.router = router;
+module.exports.persistence = {
+    saveTurnos,
+    getTurnos
+}
